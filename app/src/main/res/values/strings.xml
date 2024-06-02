@@ -25,4 +25,19 @@
     <string name="login_failed">"Login failed"</string>
     <string name="author">"Author"</string>
     <string name="desc_news">"Description"</string>
+    <string name="search_hint_text">What did you eat today?</string>
+    <string name="hint_searchbar">What did you eat today?</string>
+    <string name="search_makanan">Cari makanan yang Anda makan...</string>
+    <string name="food_name">Mie Ayam</string>\
+    <string-array name="gender_array">
+        <item>Man</item>
+        <item>Woman</item>
+    </string-array>qq
+
+    <string-array name="goal_duration_array">
+        <item>1 month</item>
+        <item>3 months</item>
+        <item>6 months</item>
+        <item>1 year</item>
+    </string-array>
 </resources>

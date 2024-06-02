@@ -13,6 +13,30 @@
         android:theme="@style/Theme.NutriTrack"
         tools:targetApi="31">
         <activity
+            android:name=".ui.SetGoalsActiivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.inputfood.snack.SnackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.inputfood.lunch.LunchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.inputfood.dinner.DinnerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.inputfood.breakfast.BreakFastActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.detailfood.DetailFoodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.tracking.TrackingActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.welcome.WelcomeActivity"
             android:exported="false" />
         <activity
