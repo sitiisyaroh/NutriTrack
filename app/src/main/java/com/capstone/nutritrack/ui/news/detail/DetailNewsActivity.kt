@@ -1,4 +1,4 @@
-package com.capstone.nutritrack.ui.notifications.detail
+package com.capstone.nutritrack.ui.news.detail
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

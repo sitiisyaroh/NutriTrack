@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.capstone.nutritrack.ui.dashboard.DashboardFragment"
+        android:name="com.capstone.nutritrack.ui.tracking.TrackingFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_tracking" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.capstone.nutritrack.ui.notifications.NotificationsFragment"
+        android:name="com.capstone.nutritrack.ui.news.NewsFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_news" />
 </navigation>

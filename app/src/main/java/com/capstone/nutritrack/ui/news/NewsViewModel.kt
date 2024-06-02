@@ -1,4 +1,4 @@
-package com.capstone.nutritrack.ui.notifications
+package com.capstone.nutritrack.ui.news
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
