@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="message_welcome_page">Hitung kalori lebih mudah dengan NutriTrack</string>
+    <string name="title_welcome_page">Welcome to NutriTrack</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk menjelajahi berbagai cerita?</string>
+</resources>
