@@ -19,13 +19,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Gender"
-        android:layout_marginTop="8dp"/>
+        android:layout_marginTop="60dp"/>
 
     <Spinner
         android:id="@+id/spinner_gender"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:entries="@array/gender_array"
         android:layout_marginBottom="16dp"/>
 
     <TextView
@@ -34,14 +33,20 @@
         android:text="Date of Birth"
         android:layout_marginTop="8dp"/>
 
-    <EditText
-        android:id="@+id/editText_dob"
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Select Date"
-        android:focusable="false"
-        android:clickable="true"
-        android:layout_marginBottom="16dp"/>
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_marginTop="7dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editText_dob"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Select Date"
+            android:focusable="false"
+            android:clickable="true"/>
+    </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
         android:layout_width="wrap_content"
@@ -49,12 +54,18 @@
         android:text="Height (cm)"
         android:layout_marginTop="8dp"/>
 
-    <EditText
-        android:id="@+id/editText_height"
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="number"
-        android:layout_marginBottom="16dp"/>
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_marginTop="7dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editText_height"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"/>
+    </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
         android:layout_width="wrap_content"
@@ -62,12 +73,18 @@
         android:text="Weight (kg)"
         android:layout_marginTop="8dp"/>
 
-    <EditText
-        android:id="@+id/editText_weight"
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="number"
-        android:layout_marginBottom="16dp"/>
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_marginTop="7dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editText_weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"/>
+    </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
         android:layout_width="wrap_content"
@@ -75,12 +92,18 @@
         android:text="What's your goal weight? (kg)"
         android:layout_marginTop="8dp"/>
 
-    <EditText
-        android:id="@+id/editText_goal_weight"
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="number"
-        android:layout_marginBottom="16dp"/>
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_marginTop="7dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editText_goal_weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"/>
+    </com.google.android.material.textfield.TextInputLayout>
 
     <Button
         android:id="@+id/button_save_goals"
@@ -89,5 +112,5 @@
         android:text="Save Goals"
         android:backgroundTint="@color/orange"
         android:textColor="@android:color/white"
-        android:layout_marginTop="16dp"/>
+        android:layout_marginTop="20dp"/>
 </LinearLayout>

@@ -30,10 +30,19 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="profile">Profile</string>
     <string name="nama">Nama</string>
-    <string name="bmi">BMI : </string>
+    <string name="bmi">BMI</string>
     <string name="save_profile">Save Profile</string>
     <string name="logout">Logout</string>
+    <string name="food_name">Food Name</string>
+    <string name="top_image_desc">Food Image</string>
+    <string name="recomedation">Recommendation for you</string>
+    <string name="howdy">Howdy,</string>
+    <string name="eaten">Eaten</string>
+    <string name="eaten_cal">250 Cal</string>
+    <string name="remaining">Remaining</string>
+    <string name="remaining_cal">1250 Cal</string>
     <string name="search_hint_text">What did you eat today?</string>
+    <string name="what_i_eat_in_the_day">What I eat in the day?</string>
     <string-array name="gender_array">
         <item>Man</item>
         <item>Woman</item>
@@ -45,4 +54,5 @@
         <item>6 months</item>
         <item>1 year</item>
     </string-array>
+
 </resources>

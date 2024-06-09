@@ -38,8 +38,8 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardCalories"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="155dp"
+        android:layout_height="106dp"
         app:cardBackgroundColor="@color/light_orange"
         app:cardCornerRadius="8dp"
         app:layout_constraintEnd_toStartOf="@+id/cardFat"
@@ -51,8 +51,8 @@
         android:layout_marginBottom="8dp">
 
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="155dp"
+            android:layout_height="106dp"
             android:orientation="vertical"
             android:padding="16dp">
 
@@ -60,20 +60,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Calorie"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotoitalic"
+                android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="1035 kcal"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotomedium"
+                android:textColor="@color/black"
                 android:layout_marginTop="8dp" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardFat"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="155dp"
+        android:layout_height="106dp"
         app:cardBackgroundColor="@color/light_orange"
         app:cardCornerRadius="8dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -83,8 +89,8 @@
         android:layout_marginBottom="8dp">
 
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="155dp"
+            android:layout_height="106dp"
             android:orientation="vertical"
             android:padding="16dp">
 
@@ -92,20 +98,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Lemak"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotomedium"
+                android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="14.92g"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotomedium"
+                android:textColor="@color/black"
                 android:layout_marginTop="8dp" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardCarbs"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="155dp"
+        android:layout_height="106dp"
         app:cardBackgroundColor="@color/light_orange"
         app:cardCornerRadius="8dp"
         app:layout_constraintEnd_toStartOf="@+id/cardProtein"
@@ -116,8 +128,8 @@
         android:layout_marginEnd="8dp">
 
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="155dp"
+            android:layout_height="106dp"
             android:orientation="vertical"
             android:padding="16dp">
 
@@ -125,20 +137,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Karb"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotomedium"
+                android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="19.55g"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotomedium"
+                android:textColor="@color/black"
                 android:layout_marginTop="8dp" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardProtein"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="155dp"
+        android:layout_height="106dp"
         app:cardBackgroundColor="@color/light_orange"
         app:cardCornerRadius="8dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -147,8 +165,8 @@
         android:layout_marginStart="8dp">
 
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="155dp"
+            android:layout_height="106dp"
             android:orientation="vertical"
             android:padding="16dp">
 
@@ -156,20 +174,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Protein"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotomedium"
+                android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="24.01g"
+                android:textSize="20sp"
+                android:fontFamily="@font/robotomedium"
+                android:textColor="@color/black"
                 android:layout_marginTop="8dp" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
     <Button
         android:id="@+id/saveButton"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="323dp"
+        android:layout_height="50dp"
         android:text="Save"
         android:textColor="@android:color/white"
         android:backgroundTint="@color/orange"

@@ -62,7 +62,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textEmailAddress"
-            tools:ignore="SpeakableTextPresentCheck" />
+            tools:ignore="SpeakableTextPresentCheck"
+            android:background="@drawable/textfield_sign"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
@@ -96,7 +97,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPassword"
-            tools:ignore="SpeakableTextPresentCheck" />
+            tools:ignore="SpeakableTextPresentCheck"
+            android:background="@drawable/textfield_sign"/>
     </com.google.android.material.textfield.TextInputLayout>
 
 

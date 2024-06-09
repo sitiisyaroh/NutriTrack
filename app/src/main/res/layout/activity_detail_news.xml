@@ -9,10 +9,12 @@
     <ImageView
         android:id="@+id/ivDetailStory"
         android:layout_width="match_parent"
-        android:layout_height="180dp"
+        android:layout_height="292dp"
         android:layout_marginTop="24dp"
         android:scaleType="centerCrop"
         android:transitionName="gambar"
+        android:background="@drawable/rounded_corner"
+        android:clipToOutline="true"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:src="@tools:sample/avatars"
@@ -25,8 +27,10 @@
         android:layout_marginTop="16dp"
         android:layout_marginStart="24dp"
         android:text="@string/title_news"
-        android:textSize="22sp"
+        android:textSize="25dp"
+        android:fontFamily="@font/robotoblack"
         android:textStyle="bold"
+        android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ivDetailStory" />
 
@@ -39,20 +43,36 @@
         android:text="@string/author"
         android:textSize="14sp"
         android:textStyle="bold"
+        android:fontFamily="@font/robotoregular"
+        android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTitleDetail" />
+
+    <View
+        android:id="@+id/horizontalDivider"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="18dp"
+        android:background="@color/black"
+        app:layout_constraintTop_toBottomOf="@+id/tvAuthor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <TextView
         android:id="@+id/tvDescDetail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="18dp"
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp"
+        android:fontFamily="@font/robotoregular"
+        android:textSize="16dp"
+        android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tvAuthor"
+        app:layout_constraintTop_toBottomOf="@+id/horizontalDivider"
         android:text="@string/desc_news"/>
+
 
     <ProgressBar
         android:id="@+id/progressBar"
