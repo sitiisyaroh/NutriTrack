@@ -1,5 +1,6 @@
 package com.capstone.nutritrack.data.api
 
+import com.capstone.nutritrack.data.request.LoginRequest
 import com.capstone.nutritrack.data.request.RegisterRequest
 import com.capstone.nutritrack.response.LoginResponse
 import com.capstone.nutritrack.response.RegisterResponse
@@ -20,11 +21,9 @@ interface ApiService{
         @Body request: RegisterRequest
     ): RegisterResponse
 
-    @FormUrlEncoded
     @POST("login")
     suspend fun login(
-        @Field("email") email: String,
-        @Field("password") password: String
+        @Body request: LoginRequest
     ): LoginResponse
 
 }
