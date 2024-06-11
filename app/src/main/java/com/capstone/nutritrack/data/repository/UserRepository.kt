@@ -1,11 +1,13 @@
 package com.capstone.nutritrack.data.repository
 
+import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.liveData
 import com.capstone.nutritrack.data.ResultState
 import com.capstone.nutritrack.data.api.ApiService
 import com.capstone.nutritrack.data.pref.UserModel
 import com.capstone.nutritrack.data.pref.UserPreference
+import com.capstone.nutritrack.data.request.RegisterRequest
 import com.capstone.nutritrack.response.ErrorResponse
 import com.capstone.nutritrack.response.LoginResponse
 import com.capstone.nutritrack.response.RegisterResponse
@@ -34,7 +36,11 @@ class UserRepository(
     fun signup(fullName: String, email: String, password: String): LiveData<ResultState<RegisterResponse>> = liveData{
         emit(ResultState.Loading)
         try {
-            val response = apiService.register(fullName,email,password)
+            Log.d(fullName, "ni fullname repository")
+            Log.d(email, "emaill ni repository")
+            Log.d(password, "ni password repository")
+            val request = RegisterRequest(fullName, email, password)
+            val response = apiService.register(request)
             emit(ResultState.Success(response))
         }catch (e: HttpException){
             val error = e.response()?.errorBody()?.string()
