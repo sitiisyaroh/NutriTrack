@@ -54,7 +54,6 @@ dependencies {
     implementation("androidx.navigation:navigation-fragment-ktx:2.7.7")
     implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
     implementation("androidx.activity:activity:1.8.0")
-    implementation("androidx.datastore:datastore-core-jvm:1.1.1")
 
     // Test dependencies
     testImplementation("junit:junit:4.13.2")
@@ -73,4 +72,7 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation ("com.squareup.okhttp3:logging-interceptor:4.9.1")
     implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.4.0")
+
+    //data store
+    implementation("androidx.datastore:datastore-preferences:1.0.0")
 }

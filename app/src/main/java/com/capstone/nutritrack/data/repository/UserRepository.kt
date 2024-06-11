@@ -7,7 +7,7 @@ import com.capstone.nutritrack.data.api.ApiService
 import com.capstone.nutritrack.data.pref.UserModel
 import com.capstone.nutritrack.data.pref.UserPreference
 import com.capstone.nutritrack.response.ErrorResponse
-import com.capstone.nutritrack.response.LogInResponse
+import com.capstone.nutritrack.response.LoginResponse
 import com.capstone.nutritrack.response.RegisterResponse
 import com.google.gson.Gson
 import kotlinx.coroutines.flow.Flow
@@ -15,14 +15,11 @@ import retrofit2.HttpException
 import java.io.File
 
 class UserRepository(
-
     private val apiService: ApiService,
     private val userPreference: UserPreference,
-
     ){
 
-
-    fun login(email: String,password: String): LiveData<ResultState<LogInResponse>> = liveData{
+    fun login(email: String,password: String): LiveData<ResultState<LoginResponse>> = liveData{
         emit(ResultState.Loading)
         try {
             val response = apiService.login(email,password)
@@ -34,10 +31,10 @@ class UserRepository(
         }
     }
 
-    fun signup(name: String, email: String, password: String): LiveData<ResultState<RegisterResponse>> = liveData{
+    fun signup(fullName: String, email: String, password: String): LiveData<ResultState<RegisterResponse>> = liveData{
         emit(ResultState.Loading)
         try {
-            val response = apiService.register(name,email,password)
+            val response = apiService.register(fullName,email,password)
             emit(ResultState.Success(response))
         }catch (e: HttpException){
             val error = e.response()?.errorBody()?.string()

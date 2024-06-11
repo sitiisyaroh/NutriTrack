@@ -1,6 +1,6 @@
 package com.capstone.nutritrack.data.api
 
-import com.capstone.nutritrack.response.LogInResponse
+import com.capstone.nutritrack.response.LoginResponse
 import com.capstone.nutritrack.response.RegisterResponse
 import okhttp3.MultipartBody
 import okhttp3.RequestBody
@@ -14,9 +14,9 @@ import retrofit2.http.Part
 interface ApiService{
 
     @FormUrlEncoded
-    @POST("register")
+    @POST("signup")
     suspend fun register(
-        @Field("name") name: String,
+        @Field("fullName") fullName: String,
         @Field("email") email: String,
         @Field("password") password: String
     ): RegisterResponse
@@ -26,7 +26,6 @@ interface ApiService{
     suspend fun login(
         @Field("email") email: String,
         @Field("password") password: String
-    ): LogInResponse
-
+    ): LoginResponse
 
 }

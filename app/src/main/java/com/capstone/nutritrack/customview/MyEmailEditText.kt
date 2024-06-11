@@ -32,7 +32,7 @@ class MyEmailEditText @JvmOverloads constructor(
 
     override fun onDraw(canvas: Canvas) {
         super.onDraw(canvas)
-        hint = "Masukkan email Anda"
+        hint = ""
         textAlignment = View.TEXT_ALIGNMENT_VIEW_START
     }
 }
