@@ -5,8 +5,10 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.capstone.nutritrack.data.repository.UserRepository
 import com.capstone.nutritrack.di.Injection
+import com.capstone.nutritrack.ui.account.AccountViewModel
 import com.capstone.nutritrack.ui.login.LoginViewModel
 import com.capstone.nutritrack.ui.main.MainViewModel
+import com.capstone.nutritrack.ui.setgoals.SetGoalsViewModel
 import com.capstone.nutritrack.ui.signup.SignUpViewModel
 
 class ViewModelFactory(private val repository: UserRepository) : ViewModelProvider.NewInstanceFactory() {
@@ -14,6 +16,9 @@ class ViewModelFactory(private val repository: UserRepository) : ViewModelProvid
     @Suppress("UNCHECKED_CAST")
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
         return when {
+            modelClass.isAssignableFrom(AccountViewModel::class.java) -> {
+                AccountViewModel(repository) as T
+            }
             modelClass.isAssignableFrom(SignUpViewModel::class.java) -> {
                 SignUpViewModel(repository) as T
             }
@@ -22,6 +27,9 @@ class ViewModelFactory(private val repository: UserRepository) : ViewModelProvid
             }
             modelClass.isAssignableFrom(MainViewModel::class.java) -> {
                 MainViewModel(repository) as T
+            }
+            modelClass.isAssignableFrom(SetGoalsViewModel::class.java) -> {
+                SetGoalsViewModel(repository) as T
             }
             else -> throw IllegalArgumentException("Unknown ViewModel class: " + modelClass.name)
         }

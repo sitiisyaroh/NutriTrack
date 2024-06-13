@@ -24,7 +24,7 @@ class ApiConfig {
                 .addInterceptor(authInterceptor)
                 .build()
             val retrofit = Retrofit.Builder()
-                .baseUrl("https://nutritrack-signloginapi-o4yuwhvnxa-as.a.run.app/")
+                .baseUrl("https://nutritrack-o4yuwhvnxa-et.a.run.app/api/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .client(client)
                 .build()

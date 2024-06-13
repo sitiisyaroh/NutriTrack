@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFFFF">
+    android:background="#FFFFFFFF"
+    tools:context="ui.account.AccountFragment">
 
     <TextView
         android:id="@+id/text_profile"
@@ -33,9 +34,10 @@
             android:layout_width="130dp"
             android:layout_height="130dp"
             android:src="@mipmap/ic_launcher"
-            android:scaleType="fitXY"
             app:civ_border_width="2dp"
-            app:civ_border_color="@android:color/white" />
+            app:civ_border_color="@android:color/white"
+            android:scaleType="centerCrop" /> <!-- Perubahan atribut ini -->
+
     </RelativeLayout>
 
     <TextView

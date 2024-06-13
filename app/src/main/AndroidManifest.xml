@@ -15,7 +15,7 @@
         android:theme="@style/Theme.NutriTrack"
         tools:targetApi="31">
         <activity
-            android:name=".ui.SetGoalsActiivity"
+            android:name=".ui.setgoals.SetGoalsActiivity"
             android:exported="false" />
         <activity
             android:name=".ui.inputfood.snack.SnackActivity"

@@ -9,9 +9,11 @@ import com.capstone.nutritrack.data.pref.UserModel
 import com.capstone.nutritrack.data.pref.UserPreference
 import com.capstone.nutritrack.data.request.LoginRequest
 import com.capstone.nutritrack.data.request.RegisterRequest
+import com.capstone.nutritrack.data.request.SetGoalsRequest
 import com.capstone.nutritrack.response.ErrorResponse
 import com.capstone.nutritrack.response.LoginResponse
 import com.capstone.nutritrack.response.RegisterResponse
+import com.capstone.nutritrack.response.SetGoalsResponse
 import com.google.gson.Gson
 import kotlinx.coroutines.flow.Flow
 import retrofit2.HttpException
@@ -61,6 +63,18 @@ class UserRepository(
     }
     suspend fun logout(){
         userPreference.logout()
+    }
+
+    fun setGoals(request: SetGoalsRequest): LiveData<ResultState<SetGoalsResponse>> = liveData {
+        emit(ResultState.Loading)
+        try {
+            val response = apiService.setGoals(request)
+            emit(ResultState.Success(response))
+        } catch (e: HttpException) {
+            val error = e.response()?.errorBody()?.string()
+            val body = Gson().fromJson(error, ErrorResponse::class.java)
+            emit(ResultState.Error(body.message))
+        }
     }
 
     companion object{

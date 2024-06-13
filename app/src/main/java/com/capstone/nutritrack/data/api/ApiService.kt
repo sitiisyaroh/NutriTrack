@@ -2,8 +2,10 @@ package com.capstone.nutritrack.data.api
 
 import com.capstone.nutritrack.data.request.LoginRequest
 import com.capstone.nutritrack.data.request.RegisterRequest
+import com.capstone.nutritrack.data.request.SetGoalsRequest
 import com.capstone.nutritrack.response.LoginResponse
 import com.capstone.nutritrack.response.RegisterResponse
+import com.capstone.nutritrack.response.SetGoalsResponse
 import okhttp3.MultipartBody
 import okhttp3.RequestBody
 import retrofit2.http.Body
@@ -25,5 +27,10 @@ interface ApiService{
     suspend fun login(
         @Body request: LoginRequest
     ): LoginResponse
+
+    @POST("setGoals")
+    suspend fun setGoals(
+        @Body request: SetGoalsRequest
+    ): SetGoalsResponse
 
 }
