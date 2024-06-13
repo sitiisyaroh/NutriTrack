@@ -65,16 +65,9 @@ class UserRepository(
         userPreference.logout()
     }
 
-    fun setGoals(request: SetGoalsRequest): LiveData<ResultState<SetGoalsResponse>> = liveData {
-        emit(ResultState.Loading)
-        try {
-            val response = apiService.setGoals(request)
-            emit(ResultState.Success(response))
-        } catch (e: HttpException) {
-            val error = e.response()?.errorBody()?.string()
-            val body = Gson().fromJson(error, ErrorResponse::class.java)
-            emit(ResultState.Error(body.message))
-        }
+    suspend fun setGoals(gender: String, dateOfBirth: String, height: Int, weight: Int, goalWeight: Int): SetGoalsResponse {
+        val request = SetGoalsRequest(gender, dateOfBirth, height, weight, goalWeight)
+        return apiService.setGoals(request)
     }
 
     companion object{

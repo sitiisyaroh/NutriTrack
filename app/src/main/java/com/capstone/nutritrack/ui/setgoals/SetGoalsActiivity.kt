@@ -1,11 +1,13 @@
 package com.capstone.nutritrack.ui.setgoals
 
 import android.app.DatePickerDialog
+import android.content.Intent
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
+import androidx.lifecycle.Observer
 import com.capstone.nutritrack.R
 import com.capstone.nutritrack.ViewModelFactory
 import com.capstone.nutritrack.data.ResultState
@@ -60,20 +62,23 @@ class SetGoalsActiivity : AppCompatActivity() {
         val weight = binding.editTextWeight.text.toString().toInt()
         val goalWeight = binding.editTextGoalWeight.text.toString().toInt()
 
-        viewModel.setGoals(gender, dob, height, weight, goalWeight).observe(this) { result ->
+        viewModel.setGoals(gender, dob, height, weight, goalWeight).observe(this, Observer { result ->
             when(result) {
                 is ResultState.Loading -> {
                     // Show loading indicator
                 }
                 is ResultState.Success -> {
                     Toast.makeText(this, "Goals saved successfully!", Toast.LENGTH_SHORT).show()
-                    // Navigate to AccountFragment
-                    finish()  // or use appropriate navigation method
+                    // Navigate to AccountFragment with the BMI category
+                    val intent = Intent()
+                    intent.putExtra("bmi_category", result.data.bmiCategory)
+                    setResult(RESULT_OK, intent)
+                    finish()
                 }
                 is ResultState.Error -> {
                     Toast.makeText(this, "Please Try Again!", Toast.LENGTH_SHORT).show()
                 }
             }
-        }
+        })
     }
 }
