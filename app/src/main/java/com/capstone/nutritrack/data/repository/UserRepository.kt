@@ -11,6 +11,7 @@ import com.capstone.nutritrack.data.request.LoginRequest
 import com.capstone.nutritrack.data.request.RegisterRequest
 import com.capstone.nutritrack.data.request.SetGoalsRequest
 import com.capstone.nutritrack.response.ErrorResponse
+import com.capstone.nutritrack.response.GetSetGoalsResponse
 import com.capstone.nutritrack.response.LoginResponse
 import com.capstone.nutritrack.response.RegisterResponse
 import com.capstone.nutritrack.response.SetGoalsResponse
@@ -68,6 +69,10 @@ class UserRepository(
     suspend fun setGoals(gender: String, dateOfBirth: String, height: Int, weight: Int, goalWeight: Int): SetGoalsResponse {
         val request = SetGoalsRequest(gender, dateOfBirth, height, weight, goalWeight)
         return apiService.setGoals(request)
+    }
+
+    suspend fun getGoals(userId: String): GetSetGoalsResponse {
+        return apiService.getGoals(userId)
     }
 
     companion object{

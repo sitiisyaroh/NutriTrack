@@ -46,6 +46,15 @@ class AccountFragment : Fragment() {
             // Update other UI elements with user data as needed
         })
 
+        viewModel.getSession().observe(viewLifecycleOwner, { user ->
+            user.email?.let { userId ->
+                viewModel.getGoals(userId).observe(viewLifecycleOwner, { goals ->
+                    binding.textBmi.text = goals.bmiCategory
+                    // Update other UI elements with goals data
+                })
+            }
+        })
+
         return root
     }
 

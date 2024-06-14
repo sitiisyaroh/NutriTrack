@@ -4,9 +4,11 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
+import androidx.lifecycle.liveData
 import androidx.lifecycle.viewModelScope
 import com.capstone.nutritrack.data.pref.UserModel
 import com.capstone.nutritrack.data.repository.UserRepository
+import com.capstone.nutritrack.response.GetSetGoalsResponse
 import kotlinx.coroutines.launch
 
 class AccountViewModel (private val repository: UserRepository) : ViewModel() {
@@ -24,6 +26,12 @@ class AccountViewModel (private val repository: UserRepository) : ViewModel() {
 
     fun getSession(): LiveData<UserModel> {
         return repository.getSession().asLiveData()
+    }
+
+
+    fun getGoals(userId: String): LiveData<GetSetGoalsResponse> = liveData {
+        val goalsResponse = repository.getGoals(userId)
+        emit(goalsResponse)
     }
 
 }
