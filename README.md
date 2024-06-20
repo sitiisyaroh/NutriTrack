@@ -33,9 +33,3 @@ NutriTrack introduces features such as BMI-based food recommendations and daily 
 
 This documentation is for user of this app.
 The documentation for each learning path can be found by switching to the branch of each path. 
-
-### REGISTER
-
-![register](assets/Article_page.png)
-
-Users must enter an email and password to register their account. The email must be in the correct format and the password must consist of 6 characters.
