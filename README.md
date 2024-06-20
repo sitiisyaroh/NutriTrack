@@ -8,7 +8,7 @@ NutriTrack introduces features such as BMI-based food recommendations and daily 
 - Data-Driven Recommendations: Utilizes the latest nutritional science and user data to offer evidence-based advice​​.
 - Key Performance Indicators (KPIs) and Analytics: Tracks user acquisition, retention rates, engagement levels, and user satisfaction to refine the app and marketing strategies​​.
 
-# Team Member - C241-PS203
+# 👥 Team Member - C241-PS203
 <div align="center">
   
 | Bangkit ID       |           Name            |   Learning Path    | LinkedIn Profile | Github | Status |
@@ -23,7 +23,7 @@ NutriTrack introduces features such as BMI-based food recommendations and daily 
 
 </div>
 
-### Library
+### 🔧Tools
   |Step|Library|
   |---|---|
   |Exploratory Data Analysis|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
