@@ -3,7 +3,7 @@ NutriTrack introduces features such as BMI-based food recommendations and daily 
 
 ## Features
 - Register and login: users can create and log in to their account via their personal email and password.
-- Personalized Nutrition Plans: Tailored recommendations based on individual health data, preferences, and goals. This includes meal planning and nutritional tracking​​.
+- Personalized Nutrition Plans: Provide food recommendations based on individual health data, preferences, and goals. This includes meal planning and nutritional tracking​​.
 - Real-time Feedback: Provides real-time feedback on nutritional intake, helping users make necessary adjustments to their diet​​.
 - Data-Driven Recommendations: Utilizes the latest nutritional science and user data to offer evidence-based advice​​.
 - Key Performance Indicators (KPIs) and Analytics: Tracks user acquisition, retention rates, engagement levels, and user satisfaction to refine the app and marketing strategies​​.
