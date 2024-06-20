@@ -36,6 +36,6 @@ The documentation for each learning path can be found by switching to the branch
 
 ### REGISTER
 
-![register](assets/register.gif)
+![register](assets/Sign In.png)(assets/Sign Up [Input Focus].png)
 
 Users must enter an email and password to register their account. The email must be in the correct format and the password must consist of 6 characters.
