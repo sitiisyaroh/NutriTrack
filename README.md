@@ -18,8 +18,8 @@ NutriTrack introduces features such as BMI-based food recommendations and daily 
 | M279D4KX2793      | Maya Myerella             | Machine Learning   | - |
 | C012D4KY0173      | M Azhar Ditia Sinuhaji    | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/mazharditiasinuhaji) |
 | C012D4KX0653      | Amaliah Rezky Alfri Jamil | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/amaliah-rezky-alfri-jamil) |
-| A200D4KX3398      | Shinta Nurrohmah          | Mobile Development | - |
-| A200D4KX3501      | Farah Gesty Amandari      | Mobile Development | - |
+| A200D4KX3398      | Shinta Nurrohmah          | Mobile Development | [LinkedIn](https://www.linkedin.com/in/shintanurohmah) |
+| A200D4KX3501      | Farah Gesty Amandari      | Mobile Development | [LinkedIn](https://www.linkedin.com/in/farah-gesty-amandari-802997235) |
 
 </div>
 
