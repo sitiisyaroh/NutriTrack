@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp"
+        android:paddingLeft="16dp"
+        android:paddingTop="16dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="16dp">
+
+        <!-- Judul Halaman -->
+        <TextView
+            android:id="@+id/text_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Help Center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:padding="16dp"/>
+
+        <!-- Daftar Pertanyaan Umum -->
+        <TextView
+            android:id="@+id/text_faq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Frequently Asked Questions"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="16dp"/>
+
+        <!-- Pertanyaan Pertama -->
+        <TextView
+            android:id="@+id/text_faq_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Apa itu aplikasi nutriTrack?"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:padding="16dp"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/text_faq_answer_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aplikasi nutriTrack adalah sebuah aplikasi tracking nutrisi yang dapat memberikan rekomendasi gizi pada pengguna yang terintegrasi Machine Learning."
+            android:textSize="16sp"
+            android:paddingStart="30dp"
+            android:paddingEnd="16dp"/>
+
+        <!-- Pertanyaan Kedua -->
+        <TextView
+            android:id="@+id/text_faq_list_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Apa tujuan dibuatnya aplikasi ini?"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:padding="16dp"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/text_faq_answer_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tujuan dibuatnya aplikasi ini adalah untuk membantu pengguna dalam melacak asupan nutrisi harian mereka, memberikan rekomendasi makanan yang sesuai dengan kebutuhan gizi mereka berdasarkan data yang dimasukkan, serta meningkatkan kesadaran akan pola makan yang sehat dan seimbang."
+            android:textSize="16sp"
+            android:paddingStart="30dp"
+            android:paddingEnd="16dp"/>
+
+        <!-- Pertanyaan Ketiga -->
+        <TextView
+            android:id="@+id/text_faq_list_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Bagaimana cara aplikasi nutriTrack memberikan rekomendasi gizi kepada pengguna?"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:padding="16dp"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/text_faq_answer_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aplikasi nutriTrack menggunakan Machine Learning untuk menganalisis data nutrisi yang dimasukkan pengguna, seperti jenis makanan, jumlah kalori, dan komposisi nutrisi lainnya. Berdasarkan analisis ini, aplikasi memberikan rekomendasi makanan yang sesuai dengan kebutuhan gizi dan preferensi pengguna."
+            android:textSize="16sp"
+            android:paddingStart="30dp"
+            android:paddingEnd="16dp"/>
+
+        <!-- Kontak Dukungan -->
+        <TextView
+            android:id="@+id/text_contact_support"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact Support"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="16dp"
+            android:background="@drawable/button_background"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:clickable="true"
+        android:onClick="onContactSupportClick"
+        android:layout_marginTop="16dp"/>
+
+        <!-- Tombol Kembali -->
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:onClick="onBackButtonClick"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal"/>
+
+    </LinearLayout>
+</ScrollView>

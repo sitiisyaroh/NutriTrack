@@ -1,0 +1,3008 @@
+[
+    {
+      "name": "Abon",
+      "image": "https://img-cdn.medkomtek.com/PbrY9X3ignQ8sVuj_LU9UXljyew=/0x0/smart/filters:quality(75):strip_icc():format(webp)/article/7g8ceHGDNMuttlBcXEl8d/original/099726800_1605161502-Mana-yang-Lebih-Sehat-Abon-Sapi-atau-Abon-Ayam-shutterstock_1361446550.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-abon-sapi/",
+      "calories": 280,
+      "proteins": 9.2,
+      "fat": 28.4,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Abon haruwan",
+      "image": "https://img-global.cpcdn.com/recipes/cbf330fbd1ba6316/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/2818137-abon-ikan-gabus-abon-iwak-haruan-khas-banjarmasin",
+      "calories": 513,
+      "proteins": 23.7,
+      "fat": 37,
+      "carbohydrate": 21.3
+    },
+    {
+      "name": "Asinan Bogor sayuran",
+      "image": "https://www.piknikdong.com/wp-content/uploads/2021/04/Resep-Asinan-Sayur-Bogor-Sederhana.jpg",
+      "recipe": "https://cookpad.com/id/resep/17246098-asinan-sayur-bogor?ref=search&search_term=asinan%20sayuran%20bogor",
+      "calories": 98,
+      "proteins": 3.9,
+      "fat": 2.6,
+      "carbohydrate": 14.8
+    },
+    {
+      "name": "Ayam goreng Kentucky sayap",
+      "image": "https://img-global.cpcdn.com/recipes/2ecb088a495ef73a/680x482cq70/ayam-goreng-kentucky-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/5252713-ayam-goreng-kentucky",
+      "calories": 297,
+      "proteins": 35.9,
+      "fat": 15.2,
+      "carbohydrate": 1.6
+    },
+    {
+      "name": "Ayam ampela goreng",
+      "image": "https://cdn1-production-images-kly.akamaized.net/MldE3BInsLHr9JgPKFlsYtmbV-E=/0x344:5472x3428/469x260/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3142898/original/027275800_1591175314-shutterstock_188934800.jpg",
+      "recipe": "https://food.detik.com/ayam/d-5698602/resep-ampela-ayam-goreng-tepung-yang-krispi-gurih",
+      "calories": 270,
+      "proteins": 32.3,
+      "fat": 11.2,
+      "carbohydrate": 9.9
+    },
+    {
+      "name": "Ayam goreng church texa sayap",
+      "image": "https://e7.pngegg.com/pngimages/66/902/png-clipart-church-s-chicken-bakery-chicken-nugget-fried-chicken-texas-chicken-church-s-chicken-bakery-thumbnail.png",
+      "recipe": "https://cookpad.com/id/resep/17230379-sayap-ayam-crispy?ref=search&search_term=sayap%20ayam%20goreng%20crispy",
+      "calories": 295,
+      "proteins": 34,
+      "fat": 16,
+      "carbohydrate": 1.5
+    },
+    {
+      "name": "Ayam goreng church texas dada",
+      "image": "https://i0.wp.com/harga.web.id/wp-content/uploads/Harga-Texas-Chicken-Reguler-dan-Promo.jpg?fit=680%2C300&ssl=1",
+      "recipe": "https://www.yummy.co.id/resep/dada-ayam-goreng-crispy",
+      "calories": 338,
+      "proteins": 35.2,
+      "fat": 20.6,
+      "carbohydrate": 0.4
+    },
+    {
+      "name": "Ayam goreng kalasan paha",
+      "image": "https://thumb.viva.id/intipseleb/1265x711/2022/10/21/6352aa183c0c1-resep-ayam-goreng-kalasan.jpg",
+      "recipe": "https://www.yummy.co.id/resep/ayam-goreng-kalasan-43",
+      "calories": 275,
+      "proteins": 37.4,
+      "fat": 12.2,
+      "carbohydrate": 1.3
+    },
+    {
+      "name": "Ayam goreng kentucky dada",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/07/07/kirim-pesan-unik-kfc-2_43.jpeg?w=1200",
+      "recipe": "https://www.yummy.co.id/resep/dada-ayam-goreng-crispy",
+      "calories": 298,
+      "proteins": 34.2,
+      "fat": 16.8,
+      "carbohydrate": 0.1
+    },
+    {
+      "name": "Ayam goreng mbok berek dada",
+      "image": "https://img-global.cpcdn.com/recipes/d15c8abab4246c58/680x482cq70/ayam-goreng-mbok-berek-foto-resep-utama.jpg",
+      "recipe": "https://endeus.tv/resep/ayam-goreng-mbok-berek-rumahan-untuk-dimakan-bersama-keluarga",
+      "calories": 295,
+      "proteins": 39.2,
+      "fat": 13.6,
+      "carbohydrate": 1
+    },
+    {
+      "name": "Ayam goreng paha",
+      "image": "https://cdn1-production-images-kly.akamaized.net/EwEm3hoNsTm-YZSonSqX2IlcAaY=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2938630/original/066858200_1571039590-shutterstock_153914045.jpg",
+      "recipe": "https://www.yummy.co.id/resep/paha-ayam-goreng-1",
+      "calories": 287,
+      "proteins": 31,
+      "fat": 15.7,
+      "carbohydrate": 1.7
+    },
+    {
+      "name": "Ayam goreng pasundan dada",
+      "image": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/6-C2DTTVLGUBJ3T6-C2DTTXDVTNJXLA/detail/menueditor_item_b01be5494e6b4600867dbcbc0dcd1ed2_1607529952400513906.webp",
+      "recipe": "https://cookpad.com/id/resep/1737078-ayam-goreng-bumbu-lengkuas-khas-pasundan",
+      "calories": 246,
+      "proteins": 37.9,
+      "fat": 9,
+      "carbohydrate": 0.7
+    },
+    {
+      "name": "Ayam goreng pasundan paha",
+      "image": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2021041504584013744/detail/menueditor_item_de1f8bfb500e483d903ccb2e25a29a7d_1618462649639007677.webp",
+      "recipe": "https://cookpad.com/id/resep/1737078-ayam-goreng-bumbu-lengkuas-khas-pasundan",
+      "calories": 245,
+      "proteins": 33.1,
+      "fat": 11.4,
+      "carbohydrate": 0.3
+    },
+    {
+      "name": "Ayam goreng sukabumi dada",
+      "image": "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d5baa5ea-bad6-4cc6-b6fe-a0c4a9a86979_Go-Biz_20211222_160332.jpeg",
+      "recipe": "https://cookpad.com/id/resep/3956036-ayam-goreng-sukabumi",
+      "calories": 244,
+      "proteins": 36.7,
+      "fat": 9.2,
+      "carbohydrate": 1
+    },
+    {
+      "name": "Ayam goreng sukabumi paha",
+      "image": "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/60ef5b81-53d7-4375-a9a3-b7eb2aed3b2a_master-menu-item-image_1597233742745.jpg?resize=728%2C500",
+      "recipe": "https://cookpad.com/id/resep/3956036-ayam-goreng-sukabumi",
+      "calories": 283,
+      "proteins": 35.7,
+      "fat": 14.3,
+      "carbohydrate": 0.5
+    },
+    {
+      "name": "Ayam taliwang masakan",
+      "image": "https://asset.kompas.com/crops/-oAqlkfrKHaqebhytdtKz-JV6ls=/4x0:1000x664/750x500/data/photo/2020/12/22/5fe16c7655542.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-ayam-taliwang/",
+      "calories": 264,
+      "proteins": 18.2,
+      "fat": 20.1,
+      "carbohydrate": 2.7
+    },
+    {
+      "name": "Babat",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/05/26/resep-bacem-babat-sapi.jpeg?w=1200",
+      "recipe": "https://cookpad.com/id/resep/16697492-babat-goreng-madura?ref=search&search_term=babat%20goreng",
+      "calories": 113,
+      "proteins": 17.6,
+      "fat": 4.2,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Bacang",
+      "image": "https://cdn1-production-images-kly.akamaized.net/dmeIqjoEQPYVHvwOwc32D8B7EcI=/1200x675/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1495067/original/082497700_1486023784-bacang-fsui_wodpress.jpg",
+      "recipe": "https://cookpad.com/id/resep/16663339-bacang-segitiga-buras-segitiga?ref=search&search_term=bacang%20beras",
+      "calories": 102.9,
+      "proteins": 3.3,
+      "fat": 2.7,
+      "carbohydrate": 16.3
+    },
+    {
+      "name": "Bagea kelapa asin",
+      "image": "https://resepkoki.id/wp-content/uploads/2018/02/Resep-Kue-Bagea.jpg",
+      "recipe": "https://cookpad.com/id/resep/15050045-kue-bagiak-kelapa?ref=search&search_term=bagea%20kelapa",
+      "calories": 450,
+      "proteins": 3.2,
+      "fat": 13.9,
+      "carbohydrate": 78.1
+    },
+    {
+      "name": "Bakpia kue",
+      "image": "https://asset.kompas.com/crops/BZ6Z25Y0XcjtoHBInh10nGsMM2Q=/3x0:700x465/750x500/data/photo/2021/03/17/60514d8851d3e.jpeg",
+      "recipe": "https://www.kompas.com/food/read/2021/03/17/093700475/resep-bakpia-isi-kacang-hijau-teksturnya-lembut-di-mulut",
+      "calories": 272,
+      "proteins": 8.7,
+      "fat": 6.7,
+      "carbohydrate": 44.1
+    },
+    {
+      "name": "Bakso ",
+      "image": "https://asset.kompas.com/crops/x6OULHa8pMi47UnvDTzf1j62ov4=/3x0:700x465/750x500/data/photo/2022/08/25/6306b48bb80a1.jpeg",
+      "recipe": "https://www.fimela.com/food/read/4999782/5-resep-bakso-sapi-kenyal-dan-kres?page=3",
+      "calories": 76,
+      "proteins": 4.1,
+      "fat": 2.5,
+      "carbohydrate": 9.2
+    },
+    {
+      "name": "Bakwan",
+      "image": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/04/Resep-Bakwan-Jagung-1.jpg?fit=1749%2C1920&ssl=1",
+      "recipe": "https://cookpad.com/id/resep/22673435-bakwan-jagung?ref=search&search_term=bakwan",
+      "calories": 280,
+      "proteins": 8.2,
+      "fat": 10.2,
+      "carbohydrate": 39
+    },
+    {
+      "name": "Barongko",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Barongko_hendak_dimakan.jpg",
+      "recipe": "https://cookpad.com/id/resep/22607126-barongko?ref=search&search_term=barongko",
+      "calories": 159,
+      "proteins": 3.1,
+      "fat": 5.8,
+      "carbohydrate": 23.5
+    },
+    {
+      "name": "Bebek daging goreng",
+      "image": "https://asset.kompas.com/crops/y8jlET9Zwl-5iykdc5t58sS-_KY=/0x52:1000x719/750x500/data/photo/2020/07/14/5f0d253a6edd5.jpg",
+      "recipe": "https://cookpad.com/id/resep/22546581-bebek-goreng?ref=search&search_term=bebek%20daging%20goreng",
+      "calories": 300,
+      "proteins": 24,
+      "fat": 20.7,
+      "carbohydrate": 4.5
+    },
+    {
+      "name": "Beberuk",
+      "image": "https://s.kaskus.id/images/2019/11/21/10218416_20191121013811.jpg",
+      "recipe": "https://cookpad.com/id/resep/22667829-sambal-beberuk-terung-khas-lombok?ref=search&search_term=beberuk",
+      "calories": 65,
+      "proteins": 1.1,
+      "fat": 5.2,
+      "carbohydrate": 3.5
+    },
+    {
+      "name": "Beef burger",
+      "image": "https://cdn.id9.site/burgerax/media/2020/09/beef-burger-e1644156606108.jpeg",
+      "recipe": "https://www.allrecipes.com/recipe/25473/the-perfect-basic-burger/",
+      "calories": 258,
+      "proteins": 10.6,
+      "fat": 9.5,
+      "carbohydrate": 32.5
+    },
+    {
+      "name": "Beef teriyaki masakan",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2020/12/resep-beef-teriyaki-2-500x300.jpg",
+      "recipe": "https://cookpad.com/id/resep/3905717-beef-teriyaki-ala-hokben",
+      "calories": 151,
+      "proteins": 8.6,
+      "fat": 3.1,
+      "carbohydrate": 22.3
+    },
+    {
+      "name": "Beef yakiniku masakan",
+      "image": "https://asset.kompas.com/crops/awoHyKStB8lI_yqs1PTI3VjIHsE=/78x42:958x629/750x500/data/photo/2022/12/08/6391613d09412.jpg",
+      "recipe": "https://cookpad.com/id/resep/2685343-beef-yakiniku-ala2-hokben",
+      "calories": 132,
+      "proteins": 9.8,
+      "fat": 1.1,
+      "carbohydrate": 20.7
+    },
+    {
+      "name": "Bekasam",
+      "image": "https://assets-a1.kompasiana.com/items/album/2021/11/13/bekasam-kuliner-fermentasi-khas-wong-sumsel-shd-1-removebg-preview-618f54d2c26b771c5c083212.png",
+      "recipe": "https://cookpad.com/id/resep/15939846-tumis-pekasam",
+      "calories": 116,
+      "proteins": 11.9,
+      "fat": 4.9,
+      "carbohydrate": 6.1
+    },
+    {
+      "name": "Bekasang",
+      "image": "https://www.surabayapagi.com/po-content/photo/big/a782bead716a8dbee3762c8c79ec4e54.jpg",
+      "recipe": "https://cookpad.com/id/resep/16199579-81-bakasang-tumis",
+      "calories": 78,
+      "proteins": 11.4,
+      "fat": 2,
+      "carbohydrate": 3.6
+    },
+    {
+      "name": "Belibis daging segar",
+      "image": "https://assets.tokko.io/2bbdc42e-f0c6-494e-ae09-9d177af2ec61/products/images/cc352d35-2818-45ed-9a63-03f4fbd2247b",
+      "recipe": "https://cookpad.com/id/resep/17030646-belibis-goreng",
+      "calories": 131,
+      "proteins": 20.2,
+      "fat": 4.3,
+      "carbohydrate": 2.8
+    },
+    {
+      "name": "Belut goreng",
+      "image": "https://asset.kompas.com/crops/EIwKgK9ZA21scjpbrA9zMJehUIU=/100x67:900x600/750x500/data/photo/2021/03/23/6059483f259e2.jpeg",
+      "recipe": "https://cookpad.com/id/resep/17275690-belut-goreng-bumbu-ketumbar",
+      "calories": 417,
+      "proteins": 25.9,
+      "fat": 19.4,
+      "carbohydrate": 32
+    },
+    {
+      "name": "Bihun Goreng ",
+      "image": "https://img.kurio.network/ZxAfF4qJQbpTcsTwVZ5fxE-8_no=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/10/17/f29f0fe9-7b93-498a-a6fe-2e0abc82e509.jpe",
+      "recipe": "https://cookpad.com/id/resep/22662005-bihun-goreng",
+      "calories": 154,
+      "proteins": 3,
+      "fat": 4.5,
+      "carbohydrate": 25.5
+    },
+    {
+      "name": "Bihun goreng instan",
+      "image": "https://img-global.cpcdn.com/recipes/98b4c2fca1b1e699/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/15769372-bihun-goreng-ayam-pakai-bihun-instan",
+      "calories": 381,
+      "proteins": 6.1,
+      "fat": 3.9,
+      "carbohydrate": 80.3
+    },
+    {
+      "name": "Bika ambon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kue_bika_ambon.JPG",
+      "recipe": "https://cookpad.com/id/resep/16813559-bika-ambon",
+      "calories": 199,
+      "proteins": 2.1,
+      "fat": 1.5,
+      "carbohydrate": 44.4
+    },
+    {
+      "name": "Bika Ambon ",
+      "image": "https://kurio-img.kurioapps.com/21/08/09/550ddc82-8004-49fe-a427-197fead4eec3.jpe",
+      "recipe": "https://cookpad.com/id/resep/16813559-bika-ambon",
+      "calories": 225.7,
+      "proteins": 3,
+      "fat": 0.3,
+      "carbohydrate": 52.9
+    },
+    {
+      "name": "Botok lamtoro",
+      "image": "https://sweetrip.id/wp-content/uploads/2022/05/botok-lamtoro.jpg",
+      "recipe": "https://cookpad.com/id/resep/17173220-botok-lamtoro",
+      "calories": 186,
+      "proteins": 11.7,
+      "fat": 9.7,
+      "carbohydrate": 13
+    },
+    {
+      "name": "Brem",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Brem_Madiun.JPG",
+      "recipe": "https://kumparan.com/tips-dan-trik/21JVV6dUuKV",
+      "calories": 249,
+      "proteins": 3.4,
+      "fat": 0.4,
+      "carbohydrate": 58
+    },
+    {
+      "name": "Brongkos",
+      "image": "https://asset.kompas.com/crops/GCuybR2DVru6BFg_rszv6WI4n_g=/0x0:1000x667/780x390/data/photo/2020/11/02/5f9f84e0407e9.jpg",
+      "recipe": "https://food.detik.com/sayur/d-5754811/resep-brongkos-jogja-pakai-daging-dan-tahu-yang-mantap-bumbunya",
+      "calories": 141,
+      "proteins": 15.3,
+      "fat": 3.3,
+      "carbohydrate": 12.6
+    },
+    {
+      "name": "Bubur ",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/12/13/resep-bubur-ayam-cincang_43.jpeg?w=1200",
+      "recipe": "https://food.detik.com/nasi/d-5852528/resep-bubur-ayam-cincang-yang-lembut-creamy-buat-sarapan",
+      "calories": 60,
+      "proteins": 1,
+      "fat": 60,
+      "carbohydrate": 13
+    },
+    {
+      "name": "Bubur sagu",
+      "image": "https://img-global.cpcdn.com/recipes/541f0543f5b40b2a/680x482cq70/bubur-sagu-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/14436191-bubur-sagu",
+      "calories": 167,
+      "proteins": 0.2,
+      "fat": 4,
+      "carbohydrate": 33
+    },
+    {
+      "name": "Bubur tinotuan (Manado)",
+      "image": "https://asset.kompas.com/crops/8IPl4RcIfLh3fkwXhKHPuPHqoz8=/81x22:892x563/750x500/data/photo/2020/05/13/5ebbdec618a37.jpg",
+      "recipe": "https://www.kompas.com/food/read/2020/07/21/071100475/sarapan-sehat-dan-nikmat-resep-bubur-manado-tinutuan",
+      "calories": 156,
+      "proteins": 2.3,
+      "fat": 0.2,
+      "carbohydrate": 15.6
+    },
+    {
+      "name": "Bulgogi masakan",
+      "image": "https://asset.kompas.com/crops/MGdiKvcc-R0j5purun8FmiLeX_U=/0x0:0x0/750x500/data/photo/2020/12/23/5fe2c9413a6ce.jpg",
+      "recipe": "https://www.haibunda.com/moms-life/20200526131835-90-142715/resep-beef-bulgogi-olahan-daging-sapi-lezat-khas-korea-selatan",
+      "calories": 72,
+      "proteins": 11.4,
+      "fat": 4.9,
+      "carbohydrate": 1.4
+    },
+    {
+      "name": "Bulung Jajan",
+      "image": "https://chanelmuslim.com/wp-content/uploads/2016/04/jaje-bulung.jpg",
+      "recipe": "https://sajiansedap.grid.id/read/10747631/jaje-bulung",
+      "calories": 212,
+      "proteins": 16.9,
+      "fat": 0.2,
+      "carbohydrate": 47.6
+    },
+    {
+      "name": "Bulung Sangu",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bulung.jpg/1200px-Bulung.jpg",
+      "recipe": "https://bali.suara.com/read/2023/10/05/113641/rujak-bulung-boni-khas-bali-menu-rumput-laut-yang-biasa-diidamkan-ibu-hamil",
+      "calories": 237,
+      "proteins": 14.7,
+      "fat": 0.2,
+      "carbohydrate": 56
+    },
+    {
+      "name": "Buncis asam",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/sasefoto/original/35264_asem-asem-buncis.JPG",
+      "recipe": "https://sajiansedap.grid.id/read/10763483/asem-asem-buncis-menu-sederhana-yang-nikmatnya-tak-terkira?page=all",
+      "calories": 60,
+      "proteins": 5.1,
+      "fat": 0.5,
+      "carbohydrate": 8.5
+    },
+    {
+      "name": "Buntil ",
+      "image": "https://asset.kompas.com/crops/vCayyRtg4fGtL3Y9EnpXrWr_TIw=/3x0:700x465/750x500/data/photo/2021/02/08/6020e623372b3.jpg",
+      "recipe": "https://sajiansedap.grid.id/read/10731824/kombinasi-unik-daun-singkong-daging-ayam-bisa-kita-hadirkan-lewat-sajian-buntil-ayam",
+      "calories": 106,
+      "proteins": 4.4,
+      "fat": 6.3,
+      "carbohydrate": 7.9
+    },
+    {
+      "name": "Buras ",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2022/06/resep-buras.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-buras/",
+      "calories": 125.7,
+      "proteins": 3.3,
+      "fat": 1.9,
+      "carbohydrate": 23.9
+    },
+    {
+      "name": "Cakalang asar (asap papua)",
+      "image": "https://indonesiakaya.com/wp-content/uploads/2020/10/Ikan_Asar_yang_sudah_matang_dan_siap_untuk_disajikan_atau_diolah_lagi_.jpg",
+      "recipe": "https://cookpad.com/id/resep/15928264-512-asar-sous-khas-maluku-ikan-cakalang-asap?ref=search&search_term=ikan%20asar%20cakalang",
+      "calories": 155,
+      "proteins": 20.1,
+      "fat": 3.8,
+      "carbohydrate": 10.2
+    },
+    {
+      "name": "Cake tape",
+      "image": "https://resepkoki.id/wp-content/uploads/2016/12/Resep-Bolu-Tape.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-bolu-tape/",
+      "calories": 323,
+      "proteins": 4.9,
+      "fat": 11.5,
+      "carbohydrate": 50.1
+    },
+    {
+      "name": "Cammetutu",
+      "image": "https://1.bp.blogspot.com/-Zmr_06Y7tCo/Xgw2ac9m9JI/AAAAAAAAEwg/qTFriUUdEGUpqOfGkkxvlY5STGOXhlUiQCLcBGAsYHQ/s1600/Camme%2BTuttu.png",
+      "recipe": "https://cookpad.com/id/resep/16739926-52-gulai-daun-ubi-daun-singkong?ref=search&search_term=resep%20sayuran%20daun%20ubi",
+      "calories": 102,
+      "proteins": 3.2,
+      "fat": 6,
+      "carbohydrate": 8.7
+    },
+    {
+      "name": "Cap cai sayur",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/12/25/resep-capcay-kuah-kental.jpeg?w=1200",
+      "recipe": "https://www.bacaresepdulu.com/resep-capcay-kuah/",
+      "calories": 97,
+      "proteins": 5.8,
+      "fat": 6.3,
+      "carbohydrate": 4.2
+    },
+    {
+      "name": "Cassavastick",
+      "image": "https://img-global.cpcdn.com/recipes/28197e7ad5840e48/680x482cq70/cassava-cheese-stick-with-veggies-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/mz/receitas/13432385-cassava-stick",
+      "calories": 460,
+      "proteins": 0.8,
+      "fat": 18.7,
+      "carbohydrate": 17.2
+    },
+    {
+      "name": "Chicken teriyaki masakan",
+      "image": "https://img-global.cpcdn.com/recipes/ff7dc38da72458fa/680x482cq70/ayam-teriyaki-ala-hokben-foto-resep-utama.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-chicken-ayam-teriyaki/",
+      "calories": 168,
+      "proteins": 13,
+      "fat": 9.6,
+      "carbohydrate": 7.5
+    },
+    {
+      "name": "Chicken Yaikiniku",
+      "image": "nutrition_Images/211.image.145513.jpg",
+      "recipe": "https://kompas.com/food/read/2021/06/30/161000575/resep-chicken-yakiniku-paprika-pakai-bahan-lokal",
+      "calories": 143,
+      "proteins": 9.8,
+      "fat": 1.4,
+      "carbohydrate": 22.8
+    },
+    {
+      "name": "Corned Beef",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2023/03/corned-beef-hash-15-1200.jpg",
+      "recipe": "https://cookpad.com/id/resep/5078600-corned-beef",
+      "calories": 241,
+      "proteins": 16,
+      "fat": 25,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Coto Makasar sapi masakan",
+      "image": "https://asset.kompas.com/crops/ljY1r3f3HJaNEuLip3iARQOaK-E=/0x1226:3000x3226/750x500/data/photo/2021/06/11/60c2acf88c6f0.jpg",
+      "recipe": "https://selerasa.com/resep-coto-makassar-kuliner-nusantara-yang-enak-dan-lezat",
+      "calories": 84,
+      "proteins": 6,
+      "fat": 6,
+      "carbohydrate": 1.4
+    },
+    {
+      "name": "Cumi-cumi goreng",
+      "image": "https://i0.wp.com/resepmasakandapurarie.com/wp-content/uploads/2014/09/Resep-Cumi-Goreng-Tepung-Crispy-.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-cumi-goreng-tepung-calamari/",
+      "calories": 265,
+      "proteins": 40.6,
+      "fat": 10.1,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Daun Singkong lodeh",
+      "image": "https://asset.kompas.com/crops/mxv9DRtBdiPbq6Lb9lPvPEn4Mtk=/0x0:1000x667/750x500/data/photo/2020/10/21/5f8f3ec62aee7.jpg",
+      "recipe": "https://www.kompas.com/food/read/2020/10/21/070700775/resep-gulai-daun-singkong-khas-padang-bisa-untuk-menu-sarapan",
+      "calories": 55,
+      "proteins": 4,
+      "fat": 0.5,
+      "carbohydrate": 8.5
+    },
+    {
+      "name": "Daun Singkong rebus",
+      "image": "https://img-global.cpcdn.com/recipes/0aba29b97a7b109f/680x482cq70/daun-singkong-rebus-ala-rm-padang-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/10634810-daun-singkong-rebus-ala-rm-padang",
+      "calories": 31,
+      "proteins": 3.7,
+      "fat": 0.6,
+      "carbohydrate": 4.8
+    },
+    {
+      "name": "Daun talas rebus",
+      "image": "https://archive.netralnews.com/foto/2020/04/13/76-daun_talas_sangat_lezat_dibuat_masakan_buntil.jpg",
+      "recipe": "https://www.youtube.com/watch?v=qV3cPRwPFWQ",
+      "calories": 27,
+      "proteins": 1.3,
+      "fat": 0.2,
+      "carbohydrate": 5.9
+    },
+    {
+      "name": "Daun ubi merah kukus",
+      "image": "https://cdn1-production-images-kly.akamaized.net/53ShO_wlxOo4hIuWjKZKBK2QLvQ=/469x260/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2580229/original/025700500_1546586996-resep-tumis-daun-ubi-jalar.jpg",
+      "recipe": "https://www.fimela.com/lifestyle/read/3760046/resep-tumis-daun-ubi-jalar",
+      "calories": 56,
+      "proteins": 3.1,
+      "fat": 0.3,
+      "carbohydrate": 13
+    },
+    {
+      "name": "Deblo ",
+      "image": "https://img-global.cpcdn.com/recipes/613bae93e873b173/680x482cq70/deblo-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/cari/deblo",
+      "calories": 260,
+      "proteins": 2,
+      "fat": 15,
+      "carbohydrate": 53
+    },
+    {
+      "name": "Dendeng belut goreng",
+      "image": "https://selerasa.com/wp-content/uploads/2015/11/images_dendeng-belut.JPG",
+      "recipe": "https://selerasa.com/resep-dan-cara-membuat-dendeng-belut-yang-mudah-dan-sederhana",
+      "calories": 382,
+      "proteins": 55.7,
+      "fat": 14.1,
+      "carbohydrate": 8
+    },
+    {
+      "name": "Dendeng Daging Sapi",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/02/20/resep-dendeng-sapi-medan_43.jpeg?w=700&q=90",
+      "recipe": "https://food.detik.com/resep-pembaca/d-5950407/resep-pembaca-resep-dendeng-sapi-medan-yang-gurih-pedas-nampol",
+      "calories": 433,
+      "proteins": 55,
+      "fat": 9,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Dendeng mujahir goreng",
+      "image": "https://img-global.cpcdn.com/recipes/c49ebd05c391ae54/680x482cq70/dendeng-mujair-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/13592665-dendeng-mujair",
+      "calories": 598,
+      "proteins": 74.3,
+      "fat": 26.9,
+      "carbohydrate": 9.2
+    },
+    {
+      "name": "Djibokum masakan",
+      "image": "https://drive.google.com/file/d/1LZOGoU3M3XcPbU5_HaAZ26ybCTbiTXpT/view?usp=sharing",
+      "recipe": "https://cookpad.com/id/resep/10786601-dwaejigogi-bokkeum",
+      "calories": 248,
+      "proteins": 10,
+      "fat": 2.3,
+      "carbohydrate": 40.9
+    },
+    {
+      "name": "Dodol",
+      "image": "https://asset.kompas.com/crops/e3JycmGm1r9fr7krT-Kj-p7R3m0=/32x18:1000x664/750x500/data/photo/2023/03/03/64014f11134b7.jpeg",
+      "recipe": "https://bangka.sonora.id/read/503715953/kenyal-dan-manis-gurih-berikut-cara-membuat-dodol-garut-3-bahan",
+      "calories": 395,
+      "proteins": 3,
+      "fat": 5.7,
+      "carbohydrate": 81.2
+    },
+    {
+      "name": "Dodol bali",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/06/13/dodol-khas-bali-berbungkus-kulit-jagung-kering-buatan-perajin-dodol-di-desa-penglatan-kecamatan-buleleng-kabupaten-buleleng_169.jpeg?w=620",
+      "recipe": "https://www.detik.com/bali/berita/d-6123994/jaen-intip-pembuatan-dodol-khas-bali-di-desa-penglatan-buleleng",
+      "calories": 298,
+      "proteins": 3.7,
+      "fat": 2.1,
+      "carbohydrate": 65.9
+    },
+    {
+      "name": "Dodonkol ",
+      "image": "https://www.piknikdong.com/wp-content/uploads/2022/06/Resep-Awug-Sederhana.jpg",
+      "recipe": "https://id.pinterest.com/pin/533535887115841646/",
+      "calories": 17.5,
+      "proteins": 3.3,
+      "fat": 2.3,
+      "carbohydrate": 39.5
+    },
+    {
+      "name": "Empal (daging) Goreng masakan",
+      "image": "https://cdn-2.tstatic.net/batam/foto/bank/images/resep-empal.jpg",
+      "recipe": "https://selerasa.com/resep-dan-cara-memasak-empal-daging-sapi-goreng-yang-empuk-dan-gurih",
+      "calories": 248,
+      "proteins": 36.2,
+      "fat": 6.9,
+      "carbohydrate": 10.1
+    },
+    {
+      "name": "Empal Goreng",
+      "image": "https://ikafood.com/wp-content/uploads/2020/09/Empal-Gepuk.jpg",
+      "recipe": "https://selerasa.com/resep-dan-cara-memasak-empal-daging-sapi-goreng-yang-empuk-dan-gurih",
+      "calories": 590,
+      "proteins": 18.5,
+      "fat": 57,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Emping (kerupuk melinjo)",
+      "image": "nutrition_Images/342.image.150745.jpg",
+      "recipe": "https://cookpad.com/id/resep/3530047-emping-melinjo-homemade",
+      "calories": 345,
+      "proteins": 12,
+      "fat": 1.5,
+      "carbohydrate": 71.5
+    },
+    {
+      "name": "Emping beras",
+      "image": "https://id-test-11.slatic.net/p/8d475dd96749024eb4626810ea458829.jpg",
+      "recipe": "https://cookpad.com/id/resep/4877051-emping-tepung-beras",
+      "calories": 403,
+      "proteins": 10.6,
+      "fat": 2.2,
+      "carbohydrate": 85.3
+    },
+    {
+      "name": "Enting-enting gepuk hello kity",
+      "image": "https://lzd-img-global.slatic.net/g/p/46ae93d66169830341e0450a39d663b5.jpg_720x720q80.jpg_.webp",
+      "recipe": "https://resepedia.id/resep/enting-enting-gepuk",
+      "calories": 538,
+      "proteins": 13.6,
+      "fat": 30.3,
+      "carbohydrate": 52.6
+    },
+    {
+      "name": "Enting-enting gepuk kacang tanah",
+      "image": "https://eventkampus.com/data/artikel/2/enting-enting-khas-salatiga-asal-usul-dan-kandungan-nutrisi-dalam-enting-enting.jpeg",
+      "recipe": "https://resepedia.id/resep/enting-enting-gepuk",
+      "calories": 524,
+      "proteins": 13.3,
+      "fat": 29.2,
+      "carbohydrate": 52
+    },
+    {
+      "name": "Enting-enting wijen",
+      "image": "https://img-global.cpcdn.com/recipes/fb33825abf7ebb72/680x482cq70/enting-enting-kacang-wijen-foto-resep-utama.jpg",
+      "recipe": "https://resepedia.id/resep/enting-enting-wijen",
+      "calories": 565,
+      "proteins": 18.2,
+      "fat": 38.4,
+      "carbohydrate": 36.8
+    },
+    {
+      "name": "Es Krim (Coconut milk) ",
+      "image": "https://cdn.nutritioninthekitch.com/wp-content/uploads/2022/03/Coconut-ice-cream-5-800x1184.jpg",
+      "recipe": "https://cookpad.com/id/resep/9564875-coconut-milk",
+      "calories": 156.7,
+      "proteins": 3,
+      "fat": 1.7,
+      "carbohydrate": 32.7
+    },
+    {
+      "name": "Es Mambo ",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2020/06/es-mambo.jpg",
+      "recipe": "https://cookpad.com/id/resep/3135496-es-mambo-rainbow",
+      "calories": 152,
+      "proteins": 0,
+      "fat": 0,
+      "carbohydrate": 37.6
+    },
+    {
+      "name": "Es Sirup ",
+      "image": "https://cdn.yummy.co.id/content-images/images/20220619/xfaVB26SMb4zm5RAt72MsKdSiArIkWyc-31363535363231363533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+      "recipe": "https://www.yummy.co.id/resep/es-sirup",
+      "calories": 44.8,
+      "proteins": 0,
+      "fat": 0,
+      "carbohydrate": 11.3
+    },
+    {
+      "name": "Gado-gado",
+      "image": "https://img.kurio.network/rlKzeW_1_iLZ-JMm9fFHX-rGdIE=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/22/06/22/53264347-b7ba-4257-852d-04e3d1b4e4e5.jpe",
+      "recipe": "https://resepkoki.id/resep/resep-gado-gado-betawi/",
+      "calories": 137,
+      "proteins": 6.1,
+      "fat": 3.2,
+      "carbohydrate": 21
+    },
+    {
+      "name": "Gambas lodeh",
+      "image": "https://cdn.yummy.co.id/content-images/images/20210411/n8JWL5o9Saqut50aP4W9cCHqob98nCg8-31363138313239343736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+      "recipe": "https://www.yummy.co.id/resep/lodeh-gambas-soun",
+      "calories": 13,
+      "proteins": 0.3,
+      "fat": 0.6,
+      "carbohydrate": 1.6
+    },
+    {
+      "name": "Gatot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/19._Gathot_2.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-gatot-singkong/",
+      "calories": 347,
+      "proteins": 1.3,
+      "fat": 0.7,
+      "carbohydrate": 83.8
+    },
+    {
+      "name": "Geblek",
+      "image": "https://assets.pikiran-rakyat.com/crop/13x117:1065x1297/x/photo/2022/07/22/2059763332.jpg",
+      "recipe": "https://cookpad.com/id/resep/277260-geblek",
+      "calories": 195,
+      "proteins": 0.4,
+      "fat": 1.7,
+      "carbohydrate": 44.4
+    },
+    {
+      "name": "Gemblong",
+      "image": "https://asset.kompas.com/crops/I3Y-iWTZTZ0TLo5ZTtNqPtrya_s=/0x73:1280x926/750x500/data/photo/2020/08/16/5f3913fdc5e69.jpg",
+      "recipe": "https://cookpad.com/id/resep/22667198-gemblong?ref=search&search_term=gemblong",
+      "calories": 274,
+      "proteins": 1.7,
+      "fat": 5.4,
+      "carbohydrate": 55.5
+    },
+    {
+      "name": "Gendar goreng",
+      "image": "https://img-global.cpcdn.com/recipes/8740dfff5f5019cb/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/11385859-gendar-goreng",
+      "calories": 407,
+      "proteins": 6.4,
+      "fat": 28.2,
+      "carbohydrate": 32
+    },
+    {
+      "name": "Geplak",
+      "image": "https://www.tuguwisata.com/wp-content/uploads/2017/10/chefjourneys_3_10_2017_14_6_38_173.jpg",
+      "recipe": "https://www.yummy.co.id/resep/geplak",
+      "calories": 350,
+      "proteins": 1.4,
+      "fat": 14.4,
+      "carbohydrate": 53.6
+    },
+    {
+      "name": "Gete kuah asam masakan",
+      "image": "https://nilaigizi.com/assets/images/produk/produk_1535785356.jpg",
+      "recipe": "https://cookpad.com/id/resep/179873-ikan-kuah-asam-menado",
+      "calories": 75,
+      "proteins": 8.2,
+      "fat": 2,
+      "carbohydrate": 6
+    },
+    {
+      "name": "Getuk goreng",
+      "image": "https://resepkoki.id/wp-content/uploads/2016/03/Resep-Getuk-goreng.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-getuk-goreng/",
+      "calories": 360,
+      "proteins": 1.3,
+      "fat": 6.4,
+      "carbohydrate": 74.3
+    },
+    {
+      "name": "Getuk Lindri ",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2018/12/21/1509136869.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-getuk-lindri/",
+      "calories": 171.4,
+      "proteins": 4,
+      "fat": 4,
+      "carbohydrate": 32
+    },
+    {
+      "name": "Getuk pisang",
+      "image": "https://asset.kompas.com/crops/l3xnQh1pGb-JXXnQlqwMVzdfRMo=/0x0:1000x667/750x500/data/photo/2022/12/25/63a7a3ef59ddd.jpeg",
+      "recipe": "https://resepkoki.id/resep/resep-getuk-pisang/",
+      "calories": 144,
+      "proteins": 1.1,
+      "fat": 0.4,
+      "carbohydrate": 34.1
+    },
+    {
+      "name": "Getuk singkong",
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/8/9/d04d11c4-f1e5-4595-8166-a53955b475ca.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-getuk-lindri/",
+      "calories": 204,
+      "proteins": 0.5,
+      "fat": 1.4,
+      "carbohydrate": 47.4
+    },
+    {
+      "name": "Gudeg ",
+      "image": "https://cdn1-production-images-kly.akamaized.net/IpYTbngk7MSDqY-O2zh-l35oxxs=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/776636/original/012158200_1417956101-gudeg.jpg",
+      "recipe": "https://food.detik.com/sayur/d-5272175/resep-gudeg-jogja-yang-sedap-ngangeni",
+      "calories": 53,
+      "proteins": 1.6,
+      "fat": 1.6,
+      "carbohydrate": 8.8
+    },
+    {
+      "name": "Gudeg sayur",
+      "image": "https://1.bp.blogspot.com/-dubLmtxl4XI/V9NzynrpH4I/AAAAAAAAZTY/Mh8U8r2Fy58EWteb0ARFDyZWj7Wot4n0ACLcB/s1600/A%2BGUDEG%2BBASAH%2BIG.jpg",
+      "recipe": "https://cookpad.com/id/resep/17094108-sayur-gudegjangan-gori-tahu-telur-bebek?ref=search&search_term=sayur%20gudeg",
+      "calories": 160,
+      "proteins": 3.3,
+      "fat": 9.2,
+      "carbohydrate": 16
+    },
+    {
+      "name": "Gulai asam keueung masakan",
+      "image": "https://img-global.cpcdn.com/recipes/8f989c17e5803c3b/680x482cq70/gulai-asam-keueng-asam-pedas-tongkol-seafoodfestival-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/9473915-gulai-asam-keueung-v1",
+      "calories": 52,
+      "proteins": 10,
+      "fat": 0.5,
+      "carbohydrate": 1.8
+    },
+    {
+      "name": "Gulai ikan masakan",
+      "image": "https://sweetrip.id/wp-content/uploads/2022/10/1.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/cara-membuat-gulai-ikan-kakap/",
+      "calories": 106,
+      "proteins": 16.5,
+      "fat": 3.3,
+      "carbohydrate": 2.5
+    },
+    {
+      "name": "Gulai kambing",
+      "image": "https://kbu-cdn.com/dk/wp-content/uploads/gulai-kambing.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-gulai-kambing-santan-empuk-dan-tidak-berbau-untuk-idul-adha/",
+      "calories": 126,
+      "proteins": 4.2,
+      "fat": 9.4,
+      "carbohydrate": 6.2
+    },
+    {
+      "name": "Gulai keumamah masakan",
+      "image": "https://img-global.cpcdn.com/recipes/d43cbe5d1ad0490d/680x482cq70/gulai-keumamah-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/5232448-gulai-keumamah",
+      "calories": 110,
+      "proteins": 5.9,
+      "fat": 8.2,
+      "carbohydrate": 3.2
+    },
+    {
+      "name": "Gulai pakis",
+      "image": "https://www.agrowindo.com/wp-content/uploads/2017/06/Gulai-pakis-agrowindo.jpg",
+      "recipe": "https://cookpad.com/id/resep/22670210-gulai-paku-pakis?ref=search&search_term=gulai%20pakis",
+      "calories": 143,
+      "proteins": 4,
+      "fat": 11.4,
+      "carbohydrate": 6
+    },
+    {
+      "name": "Gulai pliek",
+      "image": "https://mediakom.kemkes.go.id/wp-content/uploads/2021/08/kuah-pliek-u.png",
+      "recipe": "https://cookpad.com/id/resep/17084572-gulai-pliek-daun-pepaya-jepang?ref=search&search_term=gulai%20pliek",
+      "calories": 176,
+      "proteins": 7.3,
+      "fat": 14.9,
+      "carbohydrate": 3.2
+    },
+    {
+      "name": "Gulai tiram masakan",
+      "image": "https://img-global.cpcdn.com/recipes/09856a93968f8df1/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/15974000-gulai-jamur-tiram?ref=search&search_term=gulai%20tiram",
+      "calories": 132,
+      "proteins": 9,
+      "fat": 7.2,
+      "carbohydrate": 7.8
+    },
+    {
+      "name": "Gurame asem manis masakan",
+      "image": "https://d12man5gwydfvl.cloudfront.net/wp-content/uploads/2020/03/shutterstock_1561182373.jpg",
+      "recipe": "https://cookpad.com/id/resep/16762319-gurame-asam-manis?ref=search&search_term=gurame%20asam%20manis",
+      "calories": 192,
+      "proteins": 12.7,
+      "fat": 10.1,
+      "carbohydrate": 12.7
+    },
+    {
+      "name": "Gurandil",
+      "image": "https://i.ytimg.com/vi/xDsBbOWMWJo/maxresdefault.jpg",
+      "recipe": "https://cookpad.com/id/resep/17239060-cenil-cethil-gurandil?ref=search&search_term=gurandil",
+      "calories": 218,
+      "proteins": 0.5,
+      "fat": 2.5,
+      "carbohydrate": 48.5
+    },
+    {
+      "name": "Ikan asar merah masakan",
+      "image": "https://t-2.tstatic.net/medan/foto/bank/images2/Resep-Ikan-Asar-dan-Cara-Membuatnya-Hidangan-Khas-Maluku.jpg",
+      "recipe": "https://cookpad.com/id/resep/4977665-ikan-bumbu-merah",
+      "calories": 146,
+      "proteins": 17.7,
+      "fat": 5.9,
+      "carbohydrate": 5.6
+    },
+    {
+      "name": "Ikan Asin bilis goreng",
+      "image": "https://img-global.cpcdn.com/recipes/446879a009d58694/1200x630cq70/photo.jpg",
+      "recipe": "https://www.masakan-rumahan.com/recipe/resep-ikan-bilis-goreng-balado-ikan-bilih-goreng-baldo-ikan-bilih-asli-danau-singkarak/",
+      "calories": 380,
+      "proteins": 33.6,
+      "fat": 27.5,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan Asin gabus goreng",
+      "image": "https://images.tokopedia.net/img/cache/700/product-1/2019/7/27/6486945/6486945_99c1b375-e266-42bb-b539-f5731fb74114_960_960.jpg",
+      "recipe": "https://cookpad.com/id/resep/13404935-ikan-asin-gabus-goreng-simpel?ref=search&search_term=Ikan%20asin%20gabus%20goreng",
+      "calories": 456,
+      "proteins": 46.5,
+      "fat": 24.4,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan Asin japuh goreng",
+      "image": "https://img-global.cpcdn.com/recipes/756a62f3201bd80c/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/16562626-ikan-asin-japuh-crispy-bestiesnya-sayur-asem-ala-pawon-si-mbok?ref=search&search_term=Ikan%20Asin%20japuh%20goreng",
+      "calories": 348,
+      "proteins": 18.7,
+      "fat": 29.5,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan Asin pari goreng",
+      "image": "https://img-global.cpcdn.com/recipes/Recipe_2015_01_31_12_33_39_810_87c9c03bd7c9a069b268/680x482cq70/ikan-pari-goreng-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/206649-ikan-pari-goreng",
+      "calories": 430,
+      "proteins": 58.2,
+      "fat": 23.6,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan Asin pepetek goreng",
+      "image": "https://img-global.cpcdn.com/recipes/63c1692184e591d6/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/14216056-petek-asin-goreng-crispy",
+      "calories": 652,
+      "proteins": 40.4,
+      "fat": 54.3,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan bandeng presto masakan",
+      "image": "https://www.philips.com/c-dam/b2c/id_ID/experience/ho/cooking/iikan-goreng-thumbnail.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-ikan-bandeng-presto/",
+      "calories": 296,
+      "proteins": 17.1,
+      "fat": 20.3,
+      "carbohydrate": 11.3
+    },
+    {
+      "name": "Ikan Belida bakar",
+      "image": "https://nilaigizi.com/assets/images/produk/produk_1535645437.JPG",
+      "recipe": "https://www.resepistimewa.com/4-resep-bumbu-ikan-bakar-spesial-super-lezat/",
+      "calories": 128,
+      "proteins": 18,
+      "fat": 3,
+      "carbohydrate": 7.2
+    },
+    {
+      "name": "Ikan Lele goreng",
+      "image": "https://kbu-cdn.com/dk/wp-content/uploads/lele-goreng-bumbu-lengkuas.jpg",
+      "recipe": "https://cookpad.com/id/resep/22655584-lele-goreng-kriuk?ref=search&search_term=lele%20goreng",
+      "calories": 252,
+      "proteins": 19.9,
+      "fat": 19.1,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan Mas goreng",
+      "image": "https://cdn1-production-images-kly.akamaized.net/PoXdFBAzit7rJj6MDEQSxQ35dT8=/0x462:5162x3371/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2930376/original/062217400_1570175183-shutterstock_445394449.jpg",
+      "recipe": "https://cookpad.com/id/resep/22667668-ikan-mas-goreng?ref=search&search_term=ikan%20mas%20goreng",
+      "calories": 188,
+      "proteins": 19.3,
+      "fat": 12.2,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan Mas pepes",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/01/06/1877204615.jpg",
+      "recipe": "https://cookpad.com/id/resep/17245589-pepes-ikan-mas?ref=search&search_term=ikan%20mas%20pepes",
+      "calories": 209,
+      "proteins": 15.2,
+      "fat": 11.3,
+      "carbohydrate": 11.8
+    },
+    {
+      "name": "Ikan Mujair dendeng goreng",
+      "image": "https://img-global.cpcdn.com/recipes/c49ebd05c391ae54/680x482cq70/dendeng-mujair-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/13592665-dendeng-mujair",
+      "calories": 598,
+      "proteins": 74.3,
+      "fat": 26.9,
+      "carbohydrate": 9.2
+    },
+    {
+      "name": "Ikan Mujair goreng",
+      "image": "https://kurio-img.kurioapps.com/22/10/07/3521e216-d7b3-498d-a045-95973e196c36.jpg",
+      "recipe": "https://cookpad.com/id/resep/22667434-ikan-goreng-mujair-bumbu-kuning?ref=search&search_term=mujair%20goreng",
+      "calories": 416,
+      "proteins": 46.9,
+      "fat": 23.9,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Ikan Mujair pepes",
+      "image": "https://sweetrip.id/wp-content/uploads/2022/10/a-pepeas.jpg",
+      "recipe": "https://cookpad.com/id/resep/17196528-pepes-ikan-mujair?ref=search&search_term=mujair%20pepes",
+      "calories": 121,
+      "proteins": 21.7,
+      "fat": 2.8,
+      "carbohydrate": 0.8
+    },
+    {
+      "name": "Ikan Papuyu bakar",
+      "image": "https://img-global.cpcdn.com/recipes/c0df8c1401aba288/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/14555364-ikan-papuyu-bakar?ref=search&search_term=Ikan%20Papuyu%20bakar",
+      "calories": 152,
+      "proteins": 17.6,
+      "fat": 6.1,
+      "carbohydrate": 6.7
+    },
+    {
+      "name": "Ikan Patin bakar",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/05/16/resep-ikan-patin-bakar-bumbu-kecap-pedas_43.jpeg?w=1200",
+      "recipe": "https://cookpad.com/id/resep/22562153-ikan-patin-bakar-ala-banjarmasin?ref=search&search_term=Ikan%20Patin%20bakar",
+      "calories": 144,
+      "proteins": 17.5,
+      "fat": 6.3,
+      "carbohydrate": 4.3
+    },
+    {
+      "name": "Ikan sanggang masakan",
+      "image": "https://img-global.cpcdn.com/recipes/fafa134ca5a95acb/680x482cq70/ikan-bakar-kelabau-ala-mamak-tya-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/16492002-ikan-bakar-kecap-bawang-pedas-simple?ref=search&search_term=Ikan%20sanggang%20bakar",
+      "calories": 240,
+      "proteins": 21.7,
+      "fat": 7.7,
+      "carbohydrate": 20.7
+    },
+    {
+      "name": "Intip goreng",
+      "image": "https://img-global.cpcdn.com/recipes/4dece0e171a7ee52/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/16004686-19-intip-goreng-kriuk-bawang-uyah?ref=search&search_term=Intip%20goreng",
+      "calories": 474,
+      "proteins": 7.6,
+      "fat": 21.6,
+      "carbohydrate": 62.3
+    },
+    {
+      "name": "Jagung grontol",
+      "image": "https://img-global.cpcdn.com/recipes/763fb46246f99eb2/680x482cq70/grontol-jagung-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/17079255-grontol-jagung?ref=search&search_term=Jagung%20grontol",
+      "calories": 156,
+      "proteins": 2.7,
+      "fat": 1.3,
+      "carbohydrate": 33.3
+    },
+    {
+      "name": "Jenang ",
+      "image": "https://cdn.idntimes.com/content-images/community/2022/01/fromandroid-fbaa0f050bd3678e2e78518c3020f9f9_600x400.jpg",
+      "recipe": "https://cookpad.com/id/resep/5231575-dodol-ketanjenang-ketan-gula-merah",
+      "calories": 381.7,
+      "proteins": 9.5,
+      "fat": 9.5,
+      "carbohydrate": 65.8
+    },
+    {
+      "name": "Jukku pallu kaloa masakan",
+      "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,f_jpg,w_480/bj0crytdzulie8ypcyxz.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-pallu-basa/",
+      "calories": 15,
+      "proteins": 15.2,
+      "fat": 4.3,
+      "carbohydrate": 8.8
+    },
+    {
+      "name": "Kacang Tanah rempeyek",
+      "image": "https://img.okezone.com/content/2020/06/15/298/2230610/resep-peyek-kacang-tanah-dan-udang-rebon-renyah-bikin-terus-ngunyah-3j0ZqjZUGs.jpg",
+      "recipe": "https://cookpad.com/id/resep/22664049-rempeyek-kacang?ref=search&search_term=rempeyek%20kacang",
+      "calories": 513,
+      "proteins": 17.5,
+      "fat": 32.5,
+      "carbohydrate": 44.3
+    },
+    {
+      "name": "Kacang Telur ",
+      "image": "https://img-global.cpcdn.com/recipes/18de1fa4c4094900/400x400cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/17317566-kacang-telur-renyah-dan-mudah?ref=search&search_term=kacang%20telur",
+      "calories": 748,
+      "proteins": 20.8,
+      "fat": 20.8,
+      "carbohydrate": 124.8
+    },
+    {
+      "name": "Kacang Tunggak rempeyek",
+      "image": "https://img-global.cpcdn.com/recipes/dc9828ce49f235aa/680x482cq70/peyek-kacang-tunggaktemas-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/17140358-peyek-kacang-tolokacang-tunggak?ref=search&search_term=Kacang%20Tunggak%20rempeyek",
+      "calories": 451,
+      "proteins": 11.2,
+      "fat": 20.2,
+      "carbohydrate": 59.7
+    },
+    {
+      "name": "Kaholeo masakan",
+      "image": "https://img-global.cpcdn.com/recipes/e82d99f1eb64c14b/680x482cq70/ikan-teri-kaholeo-masak-asam-khas-buton-sulawesi-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/3187327-ikan-teri-kaholeo-masak-asam-khas-buton-sulawesi",
+      "calories": 413,
+      "proteins": 28.7,
+      "fat": 19.8,
+      "carbohydrate": 29.8
+    },
+    {
+      "name": "Kalio jeroan masakan",
+      "image": "https://img-global.cpcdn.com/recipes/2031e463b74f84a0/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/17266508-kalio-hati-dan-paru-sapi?ref=search&search_term=Kalio%20jeroan",
+      "calories": 163,
+      "proteins": 16.5,
+      "fat": 9,
+      "carbohydrate": 4.1
+    },
+    {
+      "name": "Kalio kikil (tunjang) masakan",
+      "image": "https://asset.kompas.com/crops/mqYtGN3S_jZncBl0Ug8aj0WNS0E=/0x0:1000x667/750x500/data/photo/2021/03/01/603c964830992.jpg",
+      "recipe": "https://cookpad.com/id/recipe/images/46bd4ee5f2710992",
+      "calories": 122,
+      "proteins": 13.8,
+      "fat": 5.7,
+      "carbohydrate": 3.9
+    },
+    {
+      "name": "Kalio otak masakan",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/sasefoto/original/32036_kalio-otak.JPG",
+      "recipe": "https://www.topwisata.info/2023/09/resep-gulai-otak-sapi-khas-minang-yang-autentik-dan-dijamin-rasanya-sedap.html",
+      "calories": 157,
+      "proteins": 8.1,
+      "fat": 8.8,
+      "carbohydrate": 11.4
+    },
+    {
+      "name": "Kalio telur masakan",
+      "image": "https://img-global.cpcdn.com/recipes/642209af1316da73/680x482cq70/kalio-telur-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/16249946-kalio-telur-sayur?ref=search&search_term=kalio%20telur",
+      "calories": 193,
+      "proteins": 10.6,
+      "fat": 12.4,
+      "carbohydrate": 9.7
+    },
+    {
+      "name": "Kangkung tumis",
+      "image": "https://scm-assets.constant.co/scm/unilever/e9dc924f238fa6cc29465942875fe8f0/17ea3056-4e78-4d25-bd54-cf3a9296188b.jpg",
+      "recipe": "https://cookpad.com/id/resep/22677607-sayur-tumis-kangkung?ref=search&search_term=tumis%20kangkung",
+      "calories": 52,
+      "proteins": 1.8,
+      "fat": 3.6,
+      "carbohydrate": 3
+    },
+    {
+      "name": "Kapurung",
+      "image": "https://rasabunda.com/wp-content/uploads/2021/08/Kapurung.jpg",
+      "recipe": "https://cookpad.com/id/resep/16928140-kapurung-sagu-khas-sulawesi?ref=search&search_term=Kapurung",
+      "calories": 41,
+      "proteins": 2,
+      "fat": 0.3,
+      "carbohydrate": 7.8
+    },
+    {
+      "name": "Kapusa",
+      "image": "https://nilaigizi.com/assets/images/produk/produk_1538364792.jpg",
+      "recipe": "https://cookpad.com/id/resep/12223567-kerupuk-basah-khas-kapuas-hulu-ala-kakwil",
+      "calories": 158,
+      "proteins": 4.4,
+      "fat": 3.2,
+      "carbohydrate": 27.8
+    },
+    {
+      "name": "Karedok ",
+      "image": "https://asset.kompas.com/crops/szsUOraQ00vakiV0314KT6-71v8=/0x0:1000x667/750x500/data/photo/2021/07/07/60e56c9f60649.jpg",
+      "recipe": "https://cookpad.com/id/resep/22591267-karedok-no-ribet-ribet?ref=search&search_term=Karedok",
+      "calories": 146.7,
+      "proteins": 5.9,
+      "fat": 5.9,
+      "carbohydrate": 19.7
+    },
+    {
+      "name": "Karedok sayur",
+      "image": "https://asset.kompas.com/crops/jbNcoL1_PmijICoxtO4126XbZgM=/0x0:1000x667/780x390/data/photo/2021/07/07/60e56c9f60649.jpg",
+      "recipe": "https://cookpad.com/id/resep/22625452-karedok-sayur?ref=search&search_term=Karedok",
+      "calories": 92,
+      "proteins": 2.2,
+      "fat": 3.3,
+      "carbohydrate": 14.1
+    },
+    {
+      "name": "Karoket ",
+      "image": "https://img-global.cpcdn.com/recipes/3ac8414039a793c2/680x482cq70/karoket-indomie-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/17293907-kroket-singkong?ref=search&search_term=karoket",
+      "calories": 292,
+      "proteins": 11.2,
+      "fat": 11.2,
+      "carbohydrate": 2.8
+    },
+    {
+      "name": "Kecimpring singkong goreng",
+      "image": "https://www.eresep.com/media/images/resep/2020/11/18/u9be0rva491sknkbkqfhhuifa1kecip.jpg.1000x650_q85.jpg",
+      "recipe": "https://cookpad.com/id/resep/305506-kecimpring-singkong-kerupuk-singkong",
+      "calories": 464,
+      "proteins": 1.2,
+      "fat": 18.6,
+      "carbohydrate": 73
+    },
+    {
+      "name": "Kelepon ",
+      "image": "https://caramembuat.id/wp-content/uploads/2022/06/Cara-Membuat-Klepon-Ketan-Khas-Bali.webp",
+      "recipe": "https://cookpad.com/id/resep/22673209-klepon?ref=search&search_term=klepon",
+      "calories": 214,
+      "proteins": 5.4,
+      "fat": 5.4,
+      "carbohydrate": 40.2
+    },
+    {
+      "name": "Kembang tahu",
+      "image": "https://asset.kompas.com/crops/sgS6iHzRJjt2l5GMjgtm8spQscM=/0x0:1000x667/750x500/data/photo/2020/08/22/5f412ff8eee87.jpg",
+      "recipe": "https://cookpad.com/id/resep/17267167-wedang-kembang-tahu-susu-murni?ref=search&search_term=kembang%20tahu",
+      "calories": 380,
+      "proteins": 48.9,
+      "fat": 13.8,
+      "carbohydrate": 23.3
+    },
+    {
+      "name": "Keremes",
+      "image": "https://1.bp.blogspot.com/-7vUY82UReBs/WTbWbqEd68I/AAAAAAAAG4k/isry-Tn67FQgLbx5nqz5ZVhpQeAMHkaSACLcB/s1600/23-04-12-2863049_540b3cf5-8735-4432-9749-3805a501b746.jpg",
+      "recipe": "https://cookpad.com/id/resep/16608559-136-kremes-ubi-gula-merah?ref=search&search_term=Keremes%20gula%20merah",
+      "calories": 475,
+      "proteins": 1.6,
+      "fat": 25.5,
+      "carbohydrate": 64.4
+    },
+    {
+      "name": "Keripik bayam",
+      "image": "https://asset.kompas.com/crops/jYESdylVwVMIxcGzRhIFfZhPjnI=/0x28:1000x694/750x500/data/photo/2021/06/12/60c3ff4b72ad0.jpeg",
+      "recipe": "https://cookpad.com/id/resep/16616754-kerupuk-bayam?ref=search&search_term=kerupuk%20bayam",
+      "calories": 586,
+      "proteins": 4.9,
+      "fat": 40.6,
+      "carbohydrate": 50.2
+    },
+    {
+      "name": "Keripik gadung",
+      "image": "https://www.ngadipuro.desa.id/desa/upload/artikel/sedang_1634355777_keripik-gadung.jpg",
+      "recipe": "https://cookpad.com/id/resep/11162325-keripik-singkong-rasa-gadung?ref=search&search_term=keripik%20gadung",
+      "calories": 446,
+      "proteins": 2.8,
+      "fat": 14.5,
+      "carbohydrate": 76
+    },
+    {
+      "name": "Keripik kentang",
+      "image": "https://asset.kompas.com/crops/TaJKfxhk6isVM1cCWS03MJ-LeZw=/32x12:1000x657/780x390/data/photo/2022/05/25/628d7e2eb24a9.jpg",
+      "recipe": "https://cookpad.com/id/resep/22625847-keripik-kentang?ref=search&search_term=keripik%20kentang",
+      "calories": 448,
+      "proteins": 2.7,
+      "fat": 18.8,
+      "carbohydrate": 67.1
+    },
+    {
+      "name": "Keripik lampung",
+      "image": "https://img-global.cpcdn.com/recipes/42103518f5a03444/680x482cq70/keripik-pisang-coklat-khas-lampung-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/16745107-keripik-pisang-lampung-varian-rasa-coklat-susu?ref=search&search_term=keripik%20lampung",
+      "calories": 485,
+      "proteins": 1.7,
+      "fat": 22.2,
+      "carbohydrate": 69.7
+    },
+    {
+      "name": "Keripik oncom",
+      "image": "https://images.tokopedia.net/img/cache/700/product-1/2020/8/16/58377017/58377017_c917b0cd-8da8-412b-834f-792308dd5144_538_538",
+      "recipe": "https://sajiansedap.grid.id/read/103762551/resep-kripik-oncom-camilan-praktis-dan-renyah-yang-bisa-dibuat-pemula",
+      "calories": 598,
+      "proteins": 8.3,
+      "fat": 43.8,
+      "carbohydrate": 42.6
+    },
+    {
+      "name": "Keripik singkong",
+      "image": "https://www.astronauts.id/blog/wp-content/uploads/2022/09/Olahan-Keripik-Khas-Indonesia-yang-Bikin-Kamu-Ketagihan-1024x683.jpg",
+      "recipe": "https://cookpad.com/id/resep/17077110-keripik-singkong?ref=search&search_term=keripik%20singkong",
+      "calories": 478,
+      "proteins": 0.9,
+      "fat": 20.7,
+      "carbohydrate": 72
+    },
+    {
+      "name": "Keripik singkong berbumbu",
+      "image": "https://www.primarasa.co.id/images/images/Keripik%20Singkong%20Balado%20-%20resep.jpg",
+      "recipe": "https://cookpad.com/id/resep/17061334-keripik-singkong-kukus-pedas-manis?ref=search&search_term=keripik%20singkong",
+      "calories": 481,
+      "proteins": 2.2,
+      "fat": 19.7,
+      "carbohydrate": 73.6
+    },
+    {
+      "name": "Keripik tempe",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2022/07/19/1076813219.png",
+      "recipe": "https://cookpad.com/id/resep/17084425-keripik-tempe-kriuk?ref=search&search_term=keripik%20tempe",
+      "calories": 581,
+      "proteins": 12.1,
+      "fat": 40.6,
+      "carbohydrate": 41.7
+    },
+    {
+      "name": "Keripik tempe abadi murni",
+      "image": "8597be9ee32588c99d9ad731093cd18a (640×640) (shopee.co.id)",
+      "recipe": "https://cookpad.com/id/resep/17084425-keripik-tempe-kriuk?ref=search&search_term=keripik%20tempe",
+      "calories": 542,
+      "proteins": 40.3,
+      "fat": 42.4,
+      "carbohydrate": 11.6
+    },
+    {
+      "name": "Keripik tempe abadi sedang",
+      "image": "kripik_tempe_abadi.jpg (600×450) (bukalapak.com)",
+      "recipe": "https://cookpad.com/id/resep/17084425-keripik-tempe-kriuk?ref=search&search_term=keripik%20tempe",
+      "calories": 510,
+      "proteins": 12.3,
+      "fat": 27.9,
+      "carbohydrate": 52.4
+    },
+    {
+      "name": "Keripik tempe abadi telur",
+      "image": "https://s2.bukalapak.com/img/7559256151/large/kripik_tempe_abadi.jpg",
+      "recipe": "https://cookpad.com/id/resep/17084425-keripik-tempe-kriuk?ref=search&search_term=keripik%20tempe",
+      "calories": 529,
+      "proteins": 20.8,
+      "fat": 31.7,
+      "carbohydrate": 40.2
+    },
+    {
+      "name": "Keripik ubi",
+      "image": "https://kurio-img.kurioapps.com/21/09/02/38b4842e-bbd0-4c81-9ac4-2f41364dfbfc.jpe",
+      "recipe": "https://cookpad.com/id/resep/17306970-kripik-ubi-balado?ref=search&search_term=kripik%20ubi",
+      "calories": 486,
+      "proteins": 0.2,
+      "fat": 23.9,
+      "carbohydrate": 67.6
+    },
+    {
+      "name": "Kerupuk Aci",
+      "image": "https://alatpresplastik.com/wp-content/uploads/2022/01/kekekeru.jpg",
+      "recipe": "https://cookpad.com/id/resep/17233673-cipuk-aci-kerupuk-khas-bandung?ref=search&search_term=kerupuk%20aci",
+      "calories": 350,
+      "proteins": 0.5,
+      "fat": 0.2,
+      "carbohydrate": 85.9
+    },
+    {
+      "name": "Kerupuk cumi goreng",
+      "image": "https://pesonanusantara.co.id/images/upload//p/e/pes-kerupuk-cumi-mgl.jpg",
+      "recipe": "https://cookpad.com/id/resep/2486099-krupuk-cumi-cumi-by-erni-hartantiamd?ref=search&search_term=kerupuk%20cumi",
+      "calories": 444,
+      "proteins": 6.9,
+      "fat": 14.6,
+      "carbohydrate": 71.3
+    },
+    {
+      "name": "Kerupuk kemplang goreng",
+      "image": "https://asset.kompas.com/crops/Qu-uGRiw6A4NINs_6VhIZBrvp1I=/0x386:667x831/750x500/data/photo/2021/05/12/609b4a1d9af08.jpg",
+      "recipe": "https://www.fimela.com/food/read/4698963/resep-kerupuk-kemplang-khas-palembang",
+      "calories": 504,
+      "proteins": 5.6,
+      "fat": 28.1,
+      "carbohydrate": 57.1
+    },
+    {
+      "name": "Kerupuk Kulit kerbau",
+      "image": "https://halalmui.org/wp-content/uploads/2022/09/2022-09-01-Kerupuk-Kulit-Kenali-Bahaya-dan-Potensi-Haramnya.jpg",
+      "recipe": "https://cookpad.com/id/resep/15329155-kerupuk-kulit-kerbau-kerupuk-rambak-ala-rumahan?ref=search&search_term=kerupuk%20kulit%20kerbau",
+      "calories": 422,
+      "proteins": 83,
+      "fat": 4,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Kerupuk Melinjo tebal goreng asin",
+      "image": "https://assets.indozone.id/content/2021/10/31/qEsgvo3/gampang-ini-cara-membuat-emping-melinjo-yang-gurih-dan-renyah30_700.jpg",
+      "recipe": "https://cookpad.com/id/resep/8616702-goreng-empingkerupuk-melinjo?ref=search&search_term=kerupuk%20melinjo",
+      "calories": 431,
+      "proteins": 11.1,
+      "fat": 16.2,
+      "carbohydrate": 63
+    },
+    {
+      "name": "Kerupuk Melinjo tebal goreng manis",
+      "image": "https://assets.indozone.id/content/2021/10/31/qEsgvo3/gampang-ini-cara-membuat-emping-melinjo-yang-gurih-dan-renyah30_700.jpg",
+      "recipe": "https://cookpad.com/id/resep/8616702-goreng-empingkerupuk-melinjo?ref=search&search_term=kerupuk%20melinjo",
+      "calories": 439,
+      "proteins": 10,
+      "fat": 16.4,
+      "carbohydrate": 65.7
+    },
+    {
+      "name": "Kerupuk Melinjo tipis goreng",
+      "image": "https://assets.indozone.id/content/2021/10/31/qEsgvo3/gampang-ini-cara-membuat-emping-melinjo-yang-gurih-dan-renyah30_700.jpg",
+      "recipe": "https://cookpad.com/id/resep/8616702-goreng-empingkerupuk-melinjo?ref=search&search_term=kerupuk%20melinjo",
+      "calories": 485,
+      "proteins": 11.5,
+      "fat": 24.5,
+      "carbohydrate": 59.1
+    },
+    {
+      "name": "Kerupuk mie kuning goreng",
+      "image": "https://id-test-11.slatic.net/p/b79efc608cc0f1f4b19fe026565838ae.jpg",
+      "recipe": "https://cookpad.com/id/resep/13407128-menggoreng-kerupuk-mie-kuning",
+      "calories": 476,
+      "proteins": 0.1,
+      "fat": 21.1,
+      "carbohydrate": 71.3
+    },
+    {
+      "name": "Kerupuk Udang ",
+      "image": "https://cdn0-production-images-kly.akamaized.net/ihQHCeKhKldhY8YlTDkiu0ObeqE=/261x0:928x667/1200x900/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3265798/original/012419700_1602564070-shutterstock_1736290877.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-kerupuk-udang/",
+      "calories": 340,
+      "proteins": 30,
+      "fat": 30,
+      "carbohydrate": 52
+    },
+    {
+      "name": "Kerupuk udang goreng",
+      "image": "https://asset.kompas.com/crops/Vol7WU4iu3WSWKNB3nhw8RFCJdE=/0x9:1000x675/750x500/data/photo/2021/07/27/60ff6fb81ffaf.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-kerupuk-udang/",
+      "calories": 477,
+      "proteins": 4.7,
+      "fat": 20.5,
+      "carbohydrate": 68.5
+    },
+    {
+      "name": "Ketan hitam matang",
+      "image": "https://asset.kompas.com/crops/agGJ3o2lK5eMmT-VkGdijGLjgpQ=/0x0:1000x667/750x500/data/photo/2020/10/26/5f965ccbd7c1a.jpg",
+      "recipe": "https://cookpad.com/id/resep/22612835-bubur-ketan-hitam?ref=search&search_term=ketan%20hitam%20matang",
+      "calories": 181,
+      "proteins": 4,
+      "fat": 1.2,
+      "carbohydrate": 37.3
+    },
+    {
+      "name": "Ketan putih matang",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/10/13/211488655.jpg",
+      "recipe": "https://cookpad.com/id/resep/17153113-bubur-ketan-putih?ref=search&search_term=ketan%20putih%20matang",
+      "calories": 163,
+      "proteins": 3,
+      "fat": 0.4,
+      "carbohydrate": 35.7
+    },
+    {
+      "name": "Ketapang ",
+      "image": "https://cdn0-production-images-kly.akamaized.net/bEFvWpDkZsFCndvlKQ2liamvXwM=/0x287:3046x2004/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3989958/original/069432700_1649474910-biji_ketapang.jpg",
+      "recipe": "https://cookpad.com/id/resep/22551344-biji-ketapang-renyah-empuk-donk-tanpa-telur?ref=search&search_term=ketapang",
+      "calories": 340,
+      "proteins": 11,
+      "fat": 11,
+      "carbohydrate": 54
+    },
+    {
+      "name": "Ketoprak",
+      "image": "https://asset.kompas.com/crops/BiN_oCxCDgkO09b1B_FPfZuvGBw=/0x0:739x493/750x500/data/photo/2020/01/29/5e318845429db.jpg",
+      "recipe": "https://cookpad.com/id/resep/17270335-ketoprak-ala-abang?ref=search&search_term=ketoprak",
+      "calories": 153,
+      "proteins": 7.9,
+      "fat": 7.7,
+      "carbohydrate": 13
+    },
+    {
+      "name": "Ketupat ketan",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/05/01/ketupat-ketan-khas-sumatra-2.jpeg?w=1200",
+      "recipe": "https://cookpad.com/id/resep/22528997-ketupat-ketan?ref=search&search_term=ketupat%20ketan",
+      "calories": 212,
+      "proteins": 4,
+      "fat": 4.6,
+      "carbohydrate": 38.6
+    },
+    {
+      "name": "Ketupat Tahu ",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/06/09/resep-kupat-tahu-menu-sarapan-n-20210609032448.jpg",
+      "recipe": "https://cookpad.com/id/resep/16911876-tahu-campur-kupat?ref=search&search_term=ketupat%20tahu",
+      "calories": 109.6,
+      "proteins": 2.6,
+      "fat": 2.6,
+      "carbohydrate": 18.6
+    },
+    {
+      "name": "Kue ali",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/06/21/resep-kue-cincin_43.jpeg?w=1200",
+      "recipe": "https://cookpad.com/id/resep/16738988-kue-cincin-kue-ali-tanpa-santan?ref=search&search_term=kue%20ali",
+      "calories": 440,
+      "proteins": 3.8,
+      "fat": 18.5,
+      "carbohydrate": 64.5
+    },
+    {
+      "name": "Kue Apem ",
+      "image": "https://cdn0-production-images-kly.akamaized.net/1vXhapwViv08dtFYbhhKKEfqiJ0=/0x542:4608x3139/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3479555/original/004272600_1623394884-shutterstock_1952418853.jpg",
+      "recipe": "https://cookpad.com/id/resep/22670959-apem-jawa-tape-singkong?ref=search&search_term=apem",
+      "calories": 186.7,
+      "proteins": 1.6,
+      "fat": 1.6,
+      "carbohydrate": 39.6
+    },
+    {
+      "name": "Kue bangket",
+      "image": "https://asset.kompas.com/crops/1zdz3_jE_GfEVcRZKtgL2GokVrA=/0x0:1000x667/750x500/data/photo/2023/02/24/63f805fb8890f.jpeg",
+      "recipe": "https://cookpad.com/id/resep/17276488-kue-bangket-sagu-susu-ala-fe?ref=search&search_term=bangket",
+      "calories": 338,
+      "proteins": 1.5,
+      "fat": 1.2,
+      "carbohydrate": 80.3
+    },
+    {
+      "name": "Kue Bugis ",
+      "image": "https://asset.kompas.com/crops/hHVyMg5BiDHITqTbKdbpz1Un4_c=/0x0:1000x667/750x500/data/photo/2022/06/21/62b109f77f78c.jpeg",
+      "recipe": "https://cookpad.com/id/resep/16957790-bugis-ubi-ungu?ref=search&search_term=bugis",
+      "calories": 240,
+      "proteins": 1,
+      "fat": 4,
+      "carbohydrate": 54
+    },
+    {
+      "name": "Kue jahe",
+      "image": "https://kurio-img.kurioapps.com/21/07/21/7ff9c395-9dea-492e-b3a0-ec9c7287dc04.jpe",
+      "recipe": "https://cookpad.com/id/resep/16241948-gingerbread-coffee?ref=search&search_term=kue%20jahe",
+      "calories": 425,
+      "proteins": 1.6,
+      "fat": 8.8,
+      "carbohydrate": 84.6
+    },
+    {
+      "name": "Kue kelapa",
+      "image": "https://assets.suaramerdeka.com/crop/0x0:0x0/750x500/webp/photo/2023/01/03/3184254010.png",
+      "recipe": "https://cookpad.com/id/resep/22660826-kue-kelapa-goreng?ref=search&search_term=kue%20kelapa",
+      "calories": 591,
+      "proteins": 5.6,
+      "fat": 42.1,
+      "carbohydrate": 47.5
+    },
+    {
+      "name": "Kue Koya ",
+      "image": "https://media.karousell.com/media/photos/products/2018/08/23/koya_kacang_suuk_asli_bandung_1535029115_863b9a71_progressive.jpg",
+      "recipe": "https://cookpad.com/id/resep/16916348-kue-koyah-kacang-hijau?ref=search&search_term=kue%20koya",
+      "calories": 366,
+      "proteins": 4.2,
+      "fat": 4.3,
+      "carbohydrate": 7.9
+    },
+    {
+      "name": "Kue lumpur",
+      "image": "https://img.kurio.network/u_ismzhaT5An97OjUr0AzVYEjCE=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/21/09/21/eec4bac2-8193-41bd-b249-22a4afc28519.jpe",
+      "recipe": "https://cookpad.com/id/resep/22972770-kue-lumpur-kentang?ref=search&search_term=lumpur",
+      "calories": 291,
+      "proteins": 3.6,
+      "fat": 11.1,
+      "carbohydrate": 44.1
+    },
+    {
+      "name": "Kue mangkok ",
+      "image": "https://asset.kompas.com/crops/EUNcgQqWtMLzjyycRK-jWqJPg5Q=/3x0:700x465/750x500/data/photo/2021/01/13/5ffe348f5e49a.jpg",
+      "recipe": "https://cookpad.com/id/resep/22674149-kue-mangkokkue-apem-terigu?ref=search&search_term=kue%20mangkok",
+      "calories": 182,
+      "proteins": 1,
+      "fat": 1,
+      "carbohydrate": 40.4
+    },
+    {
+      "name": "Kue Pacar Cina ",
+      "image": "https://asset.kompas.com/crops/jkimxsmqIcyNJ_UjeHGJML9sT_4=/0x0:698x465/750x500/data/photo/2021/02/20/603069ab80f59.jpg",
+      "recipe": "https://cookpad.com/id/resep/16950495-kue-pacar-cina?ref=search&search_term=Kue%20Pacar%20Cina",
+      "calories": 126.7,
+      "proteins": 0.7,
+      "fat": 0.7,
+      "carbohydrate": 57.3
+    },
+    {
+      "name": "Kue Pia ",
+      "image": "https://www.resepkuerenyah.com/wp-content/uploads/2015/05/Resep-Kue-Pia-Kacang-Hijau.jpg",
+      "recipe": "https://cookpad.com/id/resep/17123585-582-pasta-kacang-hijau-isian-bakpao-pia-roti-kue-tokku?ref=search&search_term=kue%20pia",
+      "calories": 296,
+      "proteins": 1.4,
+      "fat": 1.4,
+      "carbohydrate": 66.4
+    },
+    {
+      "name": "Kue putu cangkir",
+      "image": "https://i.ytimg.com/vi/GH8hVDZ3AZA/maxresdefault.jpg",
+      "recipe": "https://cookpad.com/id/resep/14783666-putu-cangkir?ref=search&search_term=putu%20cangkir",
+      "calories": 304,
+      "proteins": 5.3,
+      "fat": 7,
+      "carbohydrate": 54.9
+    },
+    {
+      "name": "Kue putu singkong",
+      "image": "https://asset.kompas.com/crops/4HYsevQAK_PJOcsTRt4Tl0vo4YI=/0x0:1000x667/750x500/data/photo/2021/06/10/60c19ee3dbc24.jpg",
+      "recipe": "https://cookpad.com/id/resep/14783666-putu-cangkir?ref=search&search_term=putu%20cangkir",
+      "calories": 217,
+      "proteins": 1.2,
+      "fat": 0.5,
+      "carbohydrate": 53.2
+    },
+    {
+      "name": "Kue Satu ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kue_satu_2.JPG/640px-Kue_satu_2.JPG",
+      "recipe": "https://cookpad.com/id/resep/17277122-kue-satu-susu?ref=search&search_term=kue%20satu",
+      "calories": 393.3,
+      "proteins": 2.7,
+      "fat": 2.7,
+      "carbohydrate": 79.3
+    },
+    {
+      "name": "Kue Semprong ",
+      "image": "https://asset.kompas.com/crops/jT3TeOZw6jjDRXgh1-P9Yrz0enI=/0x0:1000x667/750x500/data/photo/2022/01/21/61ea314112848.jpg",
+      "recipe": "https://cookpad.com/id/resep/17200925-216-kue-gapit-semprong?ref=search&search_term=semprong",
+      "calories": 380,
+      "proteins": 1,
+      "fat": 1,
+      "carbohydrate": 92
+    },
+    {
+      "name": "Kue sus",
+      "image": "https://statics.indozone.news/local/63abe8c5a2d3e.jpg",
+      "recipe": "https://cookpad.com/id/resep/22655529-kue-sus-aka-choux?ref=search&search_term=kue%20sus",
+      "calories": 221,
+      "proteins": 7.5,
+      "fat": 10.2,
+      "carbohydrate": 24.8
+    },
+    {
+      "name": "Kue Talam ",
+      "image": "https://cdn.yummy.co.id/content-images/images/20220319/ZDxMHnPOfZAq6tXHCLa9WsgeVwHh5Wb2-31363437363439303336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/format,webp",
+      "recipe": "https://cookpad.com/id/resep/22677151-kue-talam-singkong-lumer-no-kukus?ref=search&search_term=kue%20talam",
+      "calories": 180,
+      "proteins": 5,
+      "fat": 5,
+      "carbohydrate": 32
+    },
+    {
+      "name": "Kue Tambang ",
+      "image": "https://asset.kompas.com/crops/x2yGurVUxpP-COxvvOjVx2P7lL0=/100x67:900x600/750x500/data/photo/2022/04/14/62578f6fbc8b8.jpg",
+      "recipe": "https://cookpad.com/id/resep/17196926-kue-untir-untirkue-tambang?ref=search&search_term=kue%20tambang",
+      "calories": 512,
+      "proteins": 26,
+      "fat": 26,
+      "carbohydrate": 60.4
+    },
+    {
+      "name": "Kue thipan",
+      "image": "https://asset.kompas.com/crops/fXb2bs6UVUJNODIGbh7aFfAzUE4=/41x33:950x639/750x500/data/photo/2021/03/05/6041b846aa175.jpg",
+      "recipe": "https://www.resepkuerenyah.com/cara-membuat-kue-timpan-aceh/",
+      "calories": 247,
+      "proteins": 2.9,
+      "fat": 4.2,
+      "carbohydrate": 49.5
+    },
+    {
+      "name": "Kwark (Quark)",
+      "image": "https://www.24kitchen.nl/files/styles/header_small/public/2018-03/shutterstock_1015365694.jpg?itok=ILdve5p_",
+      "recipe": "https://cookpad.com/id/resep/11752290-kefir-quark?ref=search&search_term=quark",
+      "calories": 242,
+      "proteins": 19,
+      "fat": 17,
+      "carbohydrate": 3
+    },
+    {
+      "name": "Lapis legit",
+      "image": "https://kurio-img.kurioapps.com/21/03/03/fba953f2-c456-49e3-bec5-7adc1cbfd5a6.jpe",
+      "recipe": "https://endeus.tv/resep/kue-lapis-legit",
+      "calories": 389,
+      "proteins": 6.6,
+      "fat": 15.7,
+      "carbohydrate": 55.5
+    },
+    {
+      "name": "Lawar babi masakan",
+      "image": "https://cdn.idntimes.com/content-images/post/20211019/203152501-4176779059011518-795637125163020240-n-c5aa3d72f7ca0ec57070d7c1a60cf2b2_600x400.jpg",
+      "recipe": "https://www.idntimes.com/food/recipe/prila-arofani/resep-lawar-babi-ala-rumahan",
+      "calories": 174,
+      "proteins": 17,
+      "fat": 10,
+      "carbohydrate": 3
+    },
+    {
+      "name": "Lawara jangang masakan",
+      "image": "https://img-global.cpcdn.com/recipes/2bad2876953a328b/680x482cq70/lawara-jangang-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/3112180-lawara-jangang",
+      "calories": 159,
+      "proteins": 5,
+      "fat": 10.9,
+      "carbohydrate": 10.1
+    },
+    {
+      "name": "Lema/ Rebung asam",
+      "image": "https://img-global.cpcdn.com/recipes/e8525bb6dc19cd61/400x400cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/4959830-gulai-rebung-asam-khas-bengkulu",
+      "calories": 15,
+      "proteins": 1,
+      "fat": 0.4,
+      "carbohydrate": 1.9
+    },
+    {
+      "name": "Lemon Squasih",
+      "image": "https://i0.wp.com/blog.duniamasak.com/wp-content/uploads/Manfaat-dari-Citrus-Squash.jpg?fit=900%2C520&ssl=1",
+      "recipe": "https://bp-guide.id/AXPMZ0DZ",
+      "calories": 36,
+      "proteins": 0,
+      "fat": 0,
+      "carbohydrate": 10
+    },
+    {
+      "name": "Lemonade",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2020/12/11/lemonade.jpeg?w=700&q=90",
+      "recipe": "https://food.detik.com/resep/d-5291922/meriahkan-perayaan-tahun-baru-dengan-3-kreasi-resep-lemonade-segar",
+      "calories": 30,
+      "proteins": 0,
+      "fat": 0,
+      "carbohydrate": 8
+    },
+    {
+      "name": "Lemper ",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/03/30/resep-lemper-ayam_43.jpeg?w=1200",
+      "recipe": "https://food.detik.com/kue/d-6007529/resep-lemper-ayam-yang-pulen-gurih-dan-wangi-aromanya",
+      "calories": 221.3,
+      "proteins": 3.8,
+      "fat": 3.6,
+      "carbohydrate": 43.4
+    },
+    {
+      "name": "Leupeut Ketan ",
+      "image": "https://sweetrip.id/wp-content/uploads/2021/05/171584083_119493940234318_4941248120678130162_n.jpg",
+      "recipe": "https://www.medcom.id/gaya/kuliner/zNPYZR7b-resep-lepet-ketan-camilan-lebaran-khas-jawa",
+      "calories": 240,
+      "proteins": 7.8,
+      "fat": 0.5,
+      "carbohydrate": 51.3
+    },
+    {
+      "name": "Lopis ",
+      "image": "https://img-global.cpcdn.com/recipes/08285e540251b661/680x482cq70/lupislopis-ketan-pandan-ala-chef-muhammad-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/14582361-lupislopis-ketan-pandan-ala-chef-muhammad",
+      "calories": 163.3,
+      "proteins": 2.8,
+      "fat": 2.2,
+      "carbohydrate": 33
+    },
+    {
+      "name": "Lupis ketan",
+      "image": "https://asset.kompas.com/crops/TRFlnZa303pT0iwa7gkId4MCWSA=/0x54:1000x720/750x500/data/photo/2020/06/24/5ef30e98cb1e8.jpg",
+      "recipe": "https://www.kompas.com/food/read/2021/03/16/174231775/resep-lupis-ketan-hitam-kukus-bikin-tanpa-kapur-sirih",
+      "calories": 164,
+      "proteins": 1.8,
+      "fat": 2.1,
+      "carbohydrate": 34.5
+    },
+    {
+      "name": "Markisa squash",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/02/16/resep-squash-markisa-mint-minum-20210216051340.jpg",
+      "recipe": "https://sajiansedap.grid.id/amp/102551299/resep-squash-markisa-mint-enak-minuman-segar-akhir-pekan-yang-bikin-perasaan-kita-happy-terus?page=all",
+      "calories": 217,
+      "proteins": 2.5,
+      "fat": 1,
+      "carbohydrate": 49.6
+    },
+    {
+      "name": "Markisa squash BD",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/02/16/resep-squash-markisa-mint-minum-20210216051340.jpg",
+      "recipe": "https://sajiansedap.grid.id/amp/102551299/resep-squash-markisa-mint-enak-minuman-segar-akhir-pekan-yang-bikin-perasaan-kita-happy-terus?page=all",
+      "calories": 104,
+      "proteins": 1.2,
+      "fat": 0.5,
+      "carbohydrate": 23.7
+    },
+    {
+      "name": "Martabak  manis",
+      "image": "https://tasteofnusa.com/wp-content/uploads/2022/03/martabak-manis-12-720x720.jpg",
+      "recipe": "https://okinews.disway.id/read/11867/resep-martabak-manis-rasakan-sensasi-manis-dan-lembut-di-setiap-gigitan",
+      "calories": 265.3,
+      "proteins": 4.7,
+      "fat": 5.5,
+      "carbohydrate": 49.3
+    },
+    {
+      "name": "Martabak india",
+      "image": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2022/08/Resep-Martabak-Kari.jpg?fit=996%2C1328&ssl=1",
+      "recipe": "https://resepkoki.id/resep/resep-martabak-kari/",
+      "calories": 153,
+      "proteins": 4.5,
+      "fat": 4.2,
+      "carbohydrate": 24.3
+    },
+    {
+      "name": "Martabak Telur ",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2020/10/Martabak-Telor-Bayam.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-martabak-telor-daging-bayam/",
+      "calories": 200,
+      "proteins": 8.9,
+      "fat": 5.1,
+      "carbohydrate": 29.5
+    },
+    {
+      "name": "Masekat",
+      "image": "https://img-global.cpcdn.com/recipes/af253cf910c76d69/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/7906467-meuseukat-aceh",
+      "calories": 369,
+      "proteins": 2.1,
+      "fat": 7,
+      "carbohydrate": 74.1
+    },
+    {
+      "name": "Mi basah",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/S32cbc99669db47d09a0603d5b5340a676.jpg_720x720q80.jpg_.webp",
+      "recipe": "https://cookpad.com/id/resep/13103127-resep-mie-tanpa-telur",
+      "calories": 88,
+      "proteins": 0.6,
+      "fat": 3.3,
+      "carbohydrate": 14
+    },
+    {
+      "name": "Mie aceh rebus",
+      "image": "https://resepkoki.id/wp-content/uploads/2021/03/Resep-Mie-Aceh.jpg",
+      "recipe": "https://www.enakeco.com/resep-mie-aceh-kuah-pakai-bumbu-mie-goreng-enak-eco/",
+      "calories": 113,
+      "proteins": 3,
+      "fat": 3.2,
+      "carbohydrate": 18.1
+    },
+    {
+      "name": "Mie ayam",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/10/12/resep-mie-ayam-kecap_43.jpeg?w=1200",
+      "recipe": "https://food.detik.com/mie-dan-pasta/d-6343056/resep-mie-ayam-kecap-rumahan-yang-mans-gurihnya-bikin-nagih",
+      "calories": 102,
+      "proteins": 6.2,
+      "fat": 3.9,
+      "carbohydrate": 10.5
+    },
+    {
+      "name": "Mie bakso",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Indonesian_bakso%2C_with_noodle_and_bean_sprouts%2C_April_2018_%2803%29.jpg",
+      "recipe": "https://www.yummy.co.id/artikel/kuliner/resep-kuah-bakso-ayam",
+      "calories": 114,
+      "proteins": 5.3,
+      "fat": 3,
+      "carbohydrate": 16.4
+    },
+    {
+      "name": "Mie basah",
+      "image": "https://www.suarasurabaya.net/wp-content/uploads/2015/12/kk163583_clip10.jpg",
+      "recipe": "https://medium.com/@infousaha/cara-membuat-mie-sendiri-dengan-7-bahan-baku-yang-dijamin-nikmat-cbb227171fca",
+      "calories": 86,
+      "proteins": 0.6,
+      "fat": 3.3,
+      "carbohydrate": 14
+    },
+    {
+      "name": "Mie Bendo",
+      "image": "https://img-global.cpcdn.com/recipes/bdd43198a013a918/680x482cq70/mie-lethekmie-bendo-goreng-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/12280221-mie-lethekmie-bendo-goreng",
+      "calories": 353,
+      "proteins": 0.3,
+      "fat": 0,
+      "carbohydrate": 88
+    },
+    {
+      "name": "Mie pangsit basah",
+      "image": "https://sweetrip.id/wp-content/uploads/2020/08/bakmisibos_116436440_1141684466204653_5039711773118966116_n.jpg",
+      "recipe": "https://www.kompas.com/food/read/2022/06/11/070800075/resep-mi-ayam-pangsit-rebus-bisa-untuk-ide-jualan",
+      "calories": 105,
+      "proteins": 5.9,
+      "fat": 4.9,
+      "carbohydrate": 9.4
+    },
+    {
+      "name": "Mie Sagu",
+      "image": "https://o-cdn-cas.sirclocdn.com/parenting/images/mie_sagu_goreng.width-800.format-webp.webp",
+      "recipe": "https://www.orami.co.id/magazine/resep-mie-sagu",
+      "calories": 190,
+      "proteins": 0.2,
+      "fat": 0.4,
+      "carbohydrate": 46.5
+    },
+    {
+      "name": "Misoa",
+      "image": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/01/Resep-Misoa-goreng.jpg?fit=1896%2C1920&ssl=1",
+      "recipe": "https://resepkoki.id/resep/resep-misoa-goreng/",
+      "calories": 345,
+      "proteins": 8.5,
+      "fat": 2.2,
+      "carbohydrate": 78
+    },
+    {
+      "name": "Misro ",
+      "image": "https://resepkoki.id/wp-content/uploads/2016/03/Resep-Misro.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-misro/",
+      "calories": 218,
+      "proteins": 0.8,
+      "fat": 16,
+      "carbohydrate": 50.2
+    },
+    {
+      "name": "Moon tahu",
+      "image": "https://asset.kompas.com/crops/6euVEo-wAGx89LIBbuVHsBls00g=/3x0:700x465/750x500/data/photo/2021/02/26/60389a2ca08d2.jpg",
+      "recipe": "https://www.kompas.com/food/read/2021/02/27/071900875/resep-mun-tahu-ayam-udang-teksturnya-lembut-dan-kental",
+      "calories": 128,
+      "proteins": 8,
+      "fat": 10,
+      "carbohydrate": 1.3
+    },
+    {
+      "name": "Mujahir acar kuning masakan",
+      "image": "https://img-global.cpcdn.com/recipes/8bebe8ed6c7b4f07/680x482cq70/ikan-mujair-acar-kuning-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/13523786-ikan-mujair-acar-kuning",
+      "calories": 330,
+      "proteins": 17.8,
+      "fat": 23.4,
+      "carbohydrate": 12.1
+    },
+    {
+      "name": "Nasi gemuk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nasi_Gmk.jpg/1200px-Nasi_Gmk.jpg",
+      "recipe": "https://www.detik.com/sumut/kuliner/d-6606753/gurihnya-nasi-gemuk-khas-jambi-yuk-bikin",
+      "calories": 192,
+      "proteins": 3.8,
+      "fat": 8.8,
+      "carbohydrate": 24.4
+    },
+    {
+      "name": "Nasi Goreng ",
+      "image": "https://asset.kompas.com/crops/2RnTJZK6E9ABjS_1qmItNjI1hls=/0x0:5760x3840/750x500/data/photo/2023/02/14/63eb12fb840da.jpg",
+      "recipe": "https://www.kompas.com/food/read/2023/02/17/131700675/25-resep-nasi-goreng-rumahan-ramai-isiannya",
+      "calories": 276,
+      "proteins": 3.2,
+      "fat": 3.2,
+      "carbohydrate": 30.2
+    },
+    {
+      "name": "Nasi gurih",
+      "image": "https://www.frisianflag.com/storage/app/media/uploaded-files/nasi-uduk-betawi.jpg",
+      "recipe": "https://www.frisianflag.com/resep-kami/resep-dengan-susu-cair/resep-nasi-gurih",
+      "calories": 190,
+      "proteins": 4.7,
+      "fat": 7.5,
+      "carbohydrate": 26
+    },
+    {
+      "name": "Nasi jagung",
+      "image": "https://tokohinspiratif.id/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-25-at-16.10.19-1280x640.jpeg",
+      "recipe": "https://anekaukm.com/article/ide/647/begini-cara-membuat-nasi-jagung-rendah-kalori-beserta-tipsnya",
+      "calories": 357,
+      "proteins": 8.8,
+      "fat": 0.5,
+      "carbohydrate": 79.5
+    },
+    {
+      "name": "Nasi minyak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nasi_Minyak_Palembang_1.jpg",
+      "recipe": "https://dapur-teh-enur.blogspot.com/2021/06/resep-nasi-minyak-samin-khas-sumatera-selatan.html",
+      "calories": 207,
+      "proteins": 3.5,
+      "fat": 5,
+      "carbohydrate": 37.1
+    },
+    {
+      "name": "Nasi rames",
+      "image": "https://o-cdn-cas.sirclocdn.com/parenting/images/nasi-rames.width-800.format-webp.webp",
+      "recipe": "https://cookpad.com/id/cari/nasi%20rames",
+      "calories": 155,
+      "proteins": 10.3,
+      "fat": 4.2,
+      "carbohydrate": 19.1
+    },
+    {
+      "name": "Nasi tim",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2022/08/cara-membuat-nasi-tim-ayam-sayuran-mpasi.jpg",
+      "recipe": "https://www.sasa.co.id/articles/tips-trick/resep-nasi-tim-ayam-si-comfort-food-yang-mudah-dibuat-dan-enak",
+      "calories": 120,
+      "proteins": 2.4,
+      "fat": 0.4,
+      "carbohydrate": 26
+    },
+    {
+      "name": "Nasi Uduk ",
+      "image": "https://img.kurio.network/P1Obhh7cenTadrAZ6Hc_XPjaVws=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/09/01/53606332-ec0c-478c-add9-78815b5cc658.jpe",
+      "recipe": "https://endeus.tv/resep/nasi-uduk-semur-jengkol-ala-betawi-legit",
+      "calories": 253.3,
+      "proteins": 4.3,
+      "fat": 21,
+      "carbohydrate": 11.7
+    },
+    {
+      "name": "Nasu likku masakan",
+      "image": "https://cdn-2.tstatic.net/makassar/foto/bank/images/nasu-likku-wajo.jpg",
+      "recipe": "https://cookpad.com/id/cari/ayam%20nasu%20likku%20bugis",
+      "calories": 196,
+      "proteins": 14.5,
+      "fat": 8.3,
+      "carbohydrate": 15.9
+    },
+    {
+      "name": "Noga Kacang Tanah ",
+      "image": "https://t-2.tstatic.net/priangan/foto/bank/images/Noga-Suuk.jpg",
+      "recipe": "https://cookpad.com/id/resep/940637-ampyang-kacang-jahe",
+      "calories": 600,
+      "proteins": 14,
+      "fat": 41.7,
+      "carbohydrate": 42
+    },
+    {
+      "name": "Olah-olah",
+      "image": "https://img-global.cpcdn.com/recipes/45ba2643fc906c09/680x482cq70/olah-olah-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/8891472-olah-olah",
+      "calories": 9,
+      "proteins": 2.1,
+      "fat": 6,
+      "carbohydrate": 7.1
+    },
+    {
+      "name": "Oncom",
+      "image": "https://asset.kompas.com/crops/TJ76EsKIghwcoD2Dkv7GrHGa_x4=/0x9:1000x675/750x500/data/photo/2020/08/04/5f2959f90ed39.jpg",
+      "recipe": "https://www.kompas.com/food/image/2020/08/09/135300375/resep-combro-khas-sunda-camilan-gurih-berisi-oncom?page=3",
+      "calories": 187,
+      "proteins": 13,
+      "fat": 6,
+      "carbohydrate": 22.6
+    },
+    {
+      "name": "Oncom Goreng ",
+      "image": "https://t-2.tstatic.net/medan/foto/bank/images/Resep-Oncom-Goreng-Tepung.jpg",
+      "recipe": "https://sajiansedap.grid.id/read/103144702/resep-oncom-goreng-tepung-bumbu-ebi-menu-akhir-bulan-sedap-yang-selalu-jadi-idola?page=all",
+      "calories": 363.3,
+      "proteins": 19.3,
+      "fat": 19.3,
+      "carbohydrate": 40.3
+    },
+    {
+      "name": "Oncom Merah Sayur (tumis) ",
+      "image": "https://cdn.idntimes.com/content-images/community/2022/02/img-20220215-221041-46e2f5aecb68d33317c733fcbbadfb19-3b67f78530f06dc0bb76ba7e4c795a5a_600x400.jpg",
+      "recipe": "https://www.idntimes.com/food/recipe/firda-widi-astuti/tumis-oncom-leunca-c1c2",
+      "calories": 40,
+      "proteins": 2,
+      "fat": 2,
+      "carbohydrate": 3
+    },
+    {
+      "name": "Oncom pepes",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/sasefoto/original/33239_pepes-oncom-teri.jpg",
+      "recipe": "https://sajiansedap.grid.id/read/10761935/pepes-oncom-teri-olahan-oncom-yang-bikin-cita-rasanya-naik-level?page=all",
+      "calories": 76,
+      "proteins": 5.2,
+      "fat": 1.8,
+      "carbohydrate": 10.6
+    },
+    {
+      "name": "Onde-onde ",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2020/10/resep-onde-onde.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-onde-onde/",
+      "calories": 288.6,
+      "proteins": 8.3,
+      "fat": 8.9,
+      "carbohydrate": 44.3
+    },
+    {
+      "name": "Ongol-ongol ",
+      "image": "https://blog.tokowahab.com/wp-content/uploads/2020/01/Resep-Ongol-Ongol.jpg",
+      "recipe": "https://cookpad.com/id/resep/8680806-ongol-ongol",
+      "calories": 115,
+      "proteins": 1.5,
+      "fat": 6,
+      "carbohydrate": 14
+    },
+    {
+      "name": "Ongol-ongol sagu",
+      "image": "https://img-global.cpcdn.com/recipes/c2a7ee1d87669ccd/680x482cq70/ongol-ongol-sagu-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/10612464-ongol-ongol-sagu",
+      "calories": 111,
+      "proteins": 0.3,
+      "fat": 2.7,
+      "carbohydrate": 21.2
+    },
+    {
+      "name": "Oyek",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/780x800/photo/bobofoto/original/20348_nasi-oyek.JPG",
+      "recipe": "https://cookpad.com/id/resep/16523410-oyektiwul-manis",
+      "calories": 351,
+      "proteins": 0.9,
+      "fat": 0.9,
+      "carbohydrate": 84.9
+    },
+    {
+      "name": "Oyek (dari singkong)",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/780x800/photo/bobofoto/original/20348_nasi-oyek.JPG",
+      "recipe": "https://cookpad.com/id/resep/16543626-oyeknasi-singkong",
+      "calories": 342,
+      "proteins": 2.3,
+      "fat": 0.1,
+      "carbohydrate": 83.1
+    },
+    {
+      "name": "Paniki masak santan masakan",
+      "image": "https://img-global.cpcdn.com/recipes/0435c98a0facbd6b/680x482cq70/ayam-paniki-kuah-santan-daun-kemangi-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/14330664-paniki-ayam?ref=search&search_term=Paniki",
+      "calories": 460,
+      "proteins": 28.5,
+      "fat": 35.2,
+      "carbohydrate": 7.2
+    },
+    {
+      "name": "Papais ",
+      "image": "https://cdn-brilio-net.akamaized.net/news/2022/02/15/222989/1667876-1000xauto-resep-papais-pisang.jpg",
+      "recipe": "https://cookpad.com/id/resep/22575476-76-papais-kelapa-parut?ref=search&search_term=papais",
+      "calories": 133.8,
+      "proteins": 3,
+      "fat": 1.6,
+      "carbohydrate": 27
+    },
+    {
+      "name": "Papeda",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg/1200px-Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg",
+      "recipe": "https://cookpad.com/id/resep/22577826-seblak-papeda-simpel?ref=search&search_term=papeda",
+      "calories": 61,
+      "proteins": 0.2,
+      "fat": 0.1,
+      "carbohydrate": 14.9
+    },
+    {
+      "name": "Parede baleh masakan",
+      "image": "https://cdn.yummy.co.id/content-images/images/20200815/2YZZLlB1Zbu1u15lVU5vD8BzPnocXd9x-31353937343730313934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/format,webp",
+      "recipe": "https://www.yummy.co.id/resep/bale-parede-1",
+      "calories": 87,
+      "proteins": 10.5,
+      "fat": 2.5,
+      "carbohydrate": 5.5
+    },
+    {
+      "name": "Pastel",
+      "image": "https://img-global.cpcdn.com/recipes/66d15fa15c092e35/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/22673854-karipap-or-pastel-kerang?ref=search&search_term=pastel",
+      "calories": 307,
+      "proteins": 4.5,
+      "fat": 13.3,
+      "carbohydrate": 42.4
+    },
+    {
+      "name": "Pelecing kangkung",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/11/30/resep-plecing-kangkung-khas-lombok_43.jpeg?w=1200",
+      "recipe": "https://resepkoki.id/resep/resep-plecing-kangkung/",
+      "calories": 75,
+      "proteins": 2.5,
+      "fat": 2.8,
+      "carbohydrate": 10
+    },
+    {
+      "name": "Pelepah manuk masakan",
+      "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Ilustrasi-pelepah-manuk-khas-NTT2.jpg",
+      "recipe": "https://cookpad.com/id/resep/678116-pelepah-manuk-khas-ntt",
+      "calories": 219,
+      "proteins": 19.7,
+      "fat": 13.6,
+      "carbohydrate": 4.4
+    },
+    {
+      "name": "Pempek adaan",
+      "image": "https://asset.kompas.com/crops/ZCo2_DcJAXGslXbYIM3Zv4nCzsA=/0x41:1000x708/750x500/data/photo/2021/03/01/603c1e79dd9d3.jpg",
+      "recipe": "https://cookpad.com/id/resep/17234527-358-pempek-adaan-pempek-bulat?ref=search&search_term=pempek%20adaan",
+      "calories": 162,
+      "proteins": 4.9,
+      "fat": 3,
+      "carbohydrate": 27.8
+    },
+    {
+      "name": "Pempek kapal selam",
+      "image": "https://blog.duniamasak.com/wp-content/uploads/image2-1024x1024.jpeg",
+      "recipe": "https://cookpad.com/id/resep/17306569-pekmpek-tenggiri-kapal-selam-lenjer?ref=search&search_term=Pempek%20kapal%20selam",
+      "calories": 152,
+      "proteins": 4.5,
+      "fat": 2.3,
+      "carbohydrate": 28.2
+    },
+    {
+      "name": "Pempek kelesan",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/halloseleb/2020/11/Pempek-1.png",
+      "recipe": "https://cookpad.com/id/resep/12461201-pempek-kelesan-bangka-cuka-anti-cuka-botol?ref=search&search_term=Pempek%20kelesan",
+      "calories": 211,
+      "proteins": 12.3,
+      "fat": 6.1,
+      "carbohydrate": 26.6
+    },
+    {
+      "name": "Pempek kulit",
+      "image": "https://img.kurio.network/qccsgXHXu9eyYhL6WTN-KoaY8xE=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/20/06/05/40ff5973-31a7-407f-be12-b3d3af335023.jpg",
+      "recipe": "https://cookpad.com/id/resep/22550501-pempek-kulit-ikan-seluang?ref=search&search_term=Pempek%20kulit",
+      "calories": 243,
+      "proteins": 5.2,
+      "fat": 7.3,
+      "carbohydrate": 39.1
+    },
+    {
+      "name": "Pempek tenggiri",
+      "image": "https://s0.bukalapak.com/uploads/content_attachment/fd3107d582c4f80e5448ada5/original/foto_utama_pempek_2.jpg",
+      "recipe": "https://cookpad.com/id/resep/22674540-pempek-ikan-tengiri?ref=search&search_term=Pempek%20tenggiri",
+      "calories": 173,
+      "proteins": 7.2,
+      "fat": 1.2,
+      "carbohydrate": 33.4
+    },
+    {
+      "name": "Pencok lele masakan",
+      "image": "https://img-global.cpcdn.com/recipes/385569312441e99f/680x482cq70/pencok-lele-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/pt/receitas/15587342-pencok-lele",
+      "calories": 372,
+      "proteins": 7.8,
+      "fat": 36.3,
+      "carbohydrate": 3.5
+    },
+    {
+      "name": "Pepaya lodeh",
+      "image": "https://img-global.cpcdn.com/recipes/5355bb65be878c54/680x482cq70/lodeh-pepaya-muda-foto-resep-utama.jpg",
+      "recipe": "https://www.yummy.co.id/resep/lodeh-pepaya-muda-6",
+      "calories": 275,
+      "proteins": 11.6,
+      "fat": 11.6,
+      "carbohydrate": 30.2
+    },
+    {
+      "name": "Petis Udang",
+      "image": "https://img-global.cpcdn.com/recipes/9495ed8f8ea95711/680x482cq70/petis-udang-foto-resep-utama.jpg",
+      "recipe": "https://www.yummy.co.id/resep/petis-udang-homemade-8",
+      "calories": 220,
+      "proteins": 15,
+      "fat": 0.1,
+      "carbohydrate": 40
+    },
+    {
+      "name": "Petis udang kering",
+      "image": "https://i0.wp.com/harga.web.id/wp-content/uploads/Petis-Udang-1.jpg?fit=680%2C300&ssl=1",
+      "recipe": "https://www.yummy.co.id/resep/petis-udang-homemade-8",
+      "calories": 345,
+      "proteins": 23.8,
+      "fat": 1.4,
+      "carbohydrate": 59.3
+    },
+    {
+      "name": "Pinda masakan",
+      "image": "https://cdn.idntimes.com/content-images/post/20200530/2-a6cb06028f22e293879ec7f5cc4a19fd.jpg",
+      "recipe": "https://cookpad.com/id/resep/22676630-pindang-ikan?ref=search&search_term=pindang%20ikan",
+      "calories": 107,
+      "proteins": 15.9,
+      "fat": 0.6,
+      "carbohydrate": 0.4
+    },
+    {
+      "name": "Pindang Ikan Banjar",
+      "image": "https://img-global.cpcdn.com/recipes/14d53b21dadc8a0a/680x482cq70/pindang-patin-urang-banjar-ala-ulun-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/15502017-tumis-pindang-banjar?ref=search&search_term=pindang%20banjar",
+      "calories": 157,
+      "proteins": 28,
+      "fat": 4.2,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Pindang Ikan Benggol",
+      "image": "https://img-global.cpcdn.com/recipes/c8d60c4a0a1eeb05/680x482cq70/pindang-benggol-bumbu-kecap-mantuuul-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/11698484-pindang-ikan-benggol-rumahan?ref=search&search_term=pindang%20ikan%20benggol",
+      "calories": 170,
+      "proteins": 31,
+      "fat": 4.2,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Pindang Ikan Layang",
+      "image": "https://img-global.cpcdn.com/recipes/d32672cdc5392959/400x400cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/17105154-ikan-layang-pindang-kecap?ref=search&search_term=pindang%20ikan%20layang",
+      "calories": 153,
+      "proteins": 30,
+      "fat": 2.8,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Pisang Goreng ",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/06/28/resep-pisang-goreng-keriting_43.jpeg?w=1200",
+      "recipe": "https://cookpad.com/id/resep/22657614-pisang-goreng-krispi-tahan-lama?ref=search&search_term=pisang%20goreng",
+      "calories": 220,
+      "proteins": 2.3,
+      "fat": 2.3,
+      "carbohydrate": 6.3
+    },
+    {
+      "name": "Pisang Siam goreng",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2022/12/05/pisang-gorengjpg-20221205080417.jpg",
+      "recipe": "https://cookpad.com/id/resep/22657614-pisang-goreng-krispi-tahan-lama?ref=search&search_term=pisang%20goreng",
+      "calories": 625,
+      "proteins": 1,
+      "fat": 0,
+      "carbohydrate": 8.1
+    },
+    {
+      "name": "Pulut",
+      "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/B407551B-198D-472D-B9D8-4F11D6C1AE25/Derivates/91E2E036-AF80-4A24-91FF-EE9631211E26.jpg",
+      "recipe": "https://www.shiokmanrecipes.com/2016/11/24/pulut-inti/",
+      "calories": 216,
+      "proteins": 2.6,
+      "fat": 3.1,
+      "carbohydrate": 44.4
+    },
+    {
+      "name": "Pundut nasi",
+      "image": "https://img-global.cpcdn.com/recipes/bd0db074266f1019/1200x630cq70/photo.jpg",
+      "recipe": "https://www.bacaresepdulu.com/resep-nasi-pundut/",
+      "calories": 104,
+      "proteins": 1.9,
+      "fat": 4.1,
+      "carbohydrate": 15.1
+    },
+    {
+      "name": "Putri selat",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/09/16/2138675327.jpg",
+      "recipe": "https://cookpad.com/id/resep/14091119-kue-putri-selat",
+      "calories": 163,
+      "proteins": 2.2,
+      "fat": 6.5,
+      "carbohydrate": 23.8
+    },
+    {
+      "name": "Putu Mayang ",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/05/12/resep-putu-mayang-betawi_43.jpeg?w=1200",
+      "recipe": "https://cookpad.com/id/resep/17183519-putu-mayang-telang?ref=search&search_term=putu%20mayang",
+      "calories": 200,
+      "proteins": 1,
+      "fat": 2.4,
+      "carbohydrate": 43.8
+    },
+    {
+      "name": "Rarawuan ",
+      "image": "https://1.bp.blogspot.com/-0ER95zwTjoo/YOHlYJOtQCI/AAAAAAAAgJ0/d2OeMsWXfuAm2YimGXpKX5OVJqYEqoXpwCLcBGAsYHQ/s1352/209813966_330785408583521_6848659010339177574_n.jpg",
+      "recipe": "https://www.instagram.com/bunda_didi/p/CQ5jq4Ar1eN/",
+      "calories": 295,
+      "proteins": 7.3,
+      "fat": 8.5,
+      "carbohydrate": 47.5
+    },
+    {
+      "name": "Rawon masakan",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2018/04/resep-rawon-daging-500x300.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-rawon-daging/",
+      "calories": 60,
+      "proteins": 5.4,
+      "fat": 2.5,
+      "carbohydrate": 4
+    },
+    {
+      "name": "Rempeyek kacang tolo",
+      "image": "https://img-global.cpcdn.com/recipes/48ce62ec9bac2146/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/17230009-peyek-kacang-ijo",
+      "calories": 451,
+      "proteins": 11.2,
+      "fat": 20.2,
+      "carbohydrate": 59.7
+    },
+    {
+      "name": "Rempeyek kacang uci",
+      "image": "https://img-global.cpcdn.com/recipes/a6f9e4ebc75b128d/680x482cq70/rempeyek-kacang-tanah-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/cari/rempeyek%20kacang",
+      "calories": 497,
+      "proteins": 17,
+      "fat": 27.6,
+      "carbohydrate": 50.8
+    },
+    {
+      "name": "Rendang sapi masakan",
+      "image": "https://asset.kompas.com/crops/HDe5rLDP0dEOLb6MC_UPvRTwFg8=/0x141:500x474/750x500/data/photo/2021/05/11/609a08809259f.jpg",
+      "recipe": "https://www.kompas.com/tag/resep-rendang-enak",
+      "calories": 193,
+      "proteins": 22.6,
+      "fat": 7.9,
+      "carbohydrate": 7.8
+    },
+    {
+      "name": "Renggi goreng",
+      "image": "https://cdn.idntimes.com/content-images/community/2019/05/rengginang-manis-768x509-a83023517a0077a930f4f7d1c113f41d.jpg",
+      "recipe": "https://www.kompas.com/food/read/2021/05/02/091100375/cara-membuat-rengginang-gurih-untuk-isi-stoples-lebaran",
+      "calories": 471,
+      "proteins": 4.7,
+      "fat": 21.8,
+      "carbohydrate": 64.1
+    },
+    {
+      "name": "Risoles ",
+      "image": "https://rasabunda.com/wp-content/uploads/2021/08/Risoles-Ragout.jpg",
+      "recipe": "https://www.fimela.com/food/read/5056522/7-resep-risol-mayo-enak-yang-mudah-dibuat-di-rumah",
+      "calories": 335,
+      "proteins": 5.3,
+      "fat": 3.5,
+      "carbohydrate": 70.5
+    },
+    {
+      "name": "Roti boong",
+      "image": "https://img-global.cpcdn.com/recipes/cee92d5a548ee3d5/680x482cq70/kue-bohongroti-goreng-empuk-dan-menul-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/13683105-kue-bohongroti-goreng-empuk-dan-menul",
+      "calories": 341,
+      "proteins": 5.5,
+      "fat": 16.2,
+      "carbohydrate": 43.3
+    },
+    {
+      "name": "Roti Gambang ",
+      "image": "https://cdn0-production-images-kly.akamaized.net/TR6XRCpau_4ik-E3GDzTng6DDnU=/0x300:4496x2834/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3573373/original/099205200_1631765412-shutterstock_1786072643.jpg",
+      "recipe": "https://sajiansedap.grid.id/tag/roti-gambang",
+      "calories": 350,
+      "proteins": 7.5,
+      "fat": 2,
+      "carbohydrate": 75.5
+    },
+    {
+      "name": "Roti Putih",
+      "image": "https://www.yesdok.com/visual/slideshow/slices-bread-white-background-article-1625550183.jpg?w=1200",
+      "recipe": "https://www.fimela.com/food/read/4966342/5-resep-roti-tawar-empuk-yang-mudah-dibuat-di-rumah",
+      "calories": 248,
+      "proteins": 8,
+      "fat": 1.2,
+      "carbohydrate": 50
+    },
+    {
+      "name": "Rujak cingur",
+      "image": "https://lingkar.news/wp-content/uploads/2023/03/Resep-Rujak-Cingur-Makanan-Tradisional-Khas-Surabaya.jpg",
+      "recipe": "https://www.briliofood.net/resep/10-resep-olahan-cingur-sapi-kenyal-enak-dan-cocok-dijadikan-lauk-2105177.html",
+      "calories": 153,
+      "proteins": 11.3,
+      "fat": 8.4,
+      "carbohydrate": 8
+    },
+    {
+      "name": "Rusip",
+      "image": "https://indonesiakaya.com/wp-content/uploads/2020/10/1__Sambal_rusip_merupakan_sambal_khas_masyarakat_Bangka_yang_terbuat_dari_ikan_teri_edit.jpg",
+      "recipe": "https://www.kaskus.co.id/thread/6225e7c61a3b2d2b3664466d/resep-sambal-rusip-khas-bangka-belitung-teman-makan-lalapan-yang-menyegarkan",
+      "calories": 110,
+      "proteins": 11.5,
+      "fat": 2,
+      "carbohydrate": 11.7
+    },
+    {
+      "name": "RW anjing masakan",
+      "image": "https://akcdn.detik.net.id/customthumb/2014/08/13/297/daginganjingtorajadalam.jpg?w=700&q=90",
+      "recipe": "https://food.detik.com/info-kuliner/d-2661405/rw-masak-kering-sajian-daging-anjing-khas-tana-toraja",
+      "calories": 198,
+      "proteins": 24.6,
+      "fat": 10.7,
+      "carbohydrate": 0.9
+    },
+    {
+      "name": "Sagu Ambon ",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2019/05/23/5d8019b4-a99b-4aea-a6e1-96be21f8e194_43.jpeg?w=250&q=",
+      "recipe": "https://bluecheddar.net/bubur-sagu-resep-autentik-dengan-cita-rasa-unik/",
+      "calories": 338,
+      "proteins": 0.6,
+      "fat": 0.3,
+      "carbohydrate": 83.1
+    },
+    {
+      "name": "Sagu aren kering",
+      "image": "https://img-global.cpcdn.com/recipes/66e50eace9b95af6/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/9105363-kue-sagu-aren",
+      "calories": 355,
+      "proteins": 0.6,
+      "fat": 1.1,
+      "carbohydrate": 85.6
+    },
+    {
+      "name": "Sagu forno",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/06/25/sagu-porno_43.jpeg?w=650&q=80",
+      "recipe": "https://www.youtube.com/watch?v=4CO6mnsZdzw",
+      "calories": 291,
+      "proteins": 0.5,
+      "fat": 4,
+      "carbohydrate": 63.4
+    },
+    {
+      "name": "Sagu Lemak (Kue Sagon)",
+      "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/3/5/d8ba35a9-c0a0-4194-9bf0-ec93071792cc.jpg",
+      "recipe": "https://cookpad.com/id/cari/kue%20sagon%20sagu",
+      "calories": 452,
+      "proteins": 2.8,
+      "fat": 14.8,
+      "carbohydrate": 76.8
+    },
+    {
+      "name": "Sagu Rendang",
+      "image": "https://img-global.cpcdn.com/recipes/52dbe680ea623036/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/13378195-bubur-randang-khas-kalsel",
+      "calories": 364,
+      "proteins": 0.1,
+      "fat": 0.2,
+      "carbohydrate": 90.5
+    },
+    {
+      "name": "Sagu sinole",
+      "image": "https://img-global.cpcdn.com/recipes/9051c1a3e2650c22/680x482cq70/kue-kering-sagu-keju-simple-dan-enak-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/770379-kue-kering-sagu-keju-simple-dan-enak",
+      "calories": 354,
+      "proteins": 0.8,
+      "fat": 8.3,
+      "carbohydrate": 68.9
+    },
+    {
+      "name": "Sale pisang siam",
+      "image": "https://t-2.tstatic.net/priangan/foto/bank/images/Ilustrasi-sale-pisang-dari-Trenggalek.jpg",
+      "recipe": "https://www.kompas.com/food/read/2022/04/20/101100775/5-cara-membuat-sale-pisang-sederhana-yang-tahan-lama",
+      "calories": 281,
+      "proteins": 2.4,
+      "fat": 0.7,
+      "carbohydrate": 66.1
+    },
+    {
+      "name": "Saos Tomat",
+      "image": "https://static.sehatq.com/content/review/image/1644897313.png",
+      "recipe": "https://eng.obozrevatel.com/section-food/news-what-to-add-to-homemade-ketchup-to-make-it-rich-in-color-a-very-simple-ingredient-18-09-2023.html",
+      "calories": 98,
+      "proteins": 2,
+      "fat": 0.4,
+      "carbohydrate": 24.5
+    },
+    {
+      "name": "Sapi abon",
+      "image": "https://cdn0-production-images-kly.akamaized.net/fqIGhZT1Z1Zu36S_0_xZCoJSI5A=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3980335/original/086906600_1648695608-Abon_Sapi_Premium.jpg",
+      "recipe": "https://www.liputan6.com/hot/read/5007913/5-cara-membuat-abon-sapi-dengan-mudah-lauk-enak-yang-tahan-lama",
+      "calories": 212,
+      "proteins": 18,
+      "fat": 10.6,
+      "carbohydrate": 59.3
+    },
+    {
+      "name": "Sapi daging asap",
+      "image": "https://asset.kompas.com/crops/FMBgpWLQutfbdsgz0ZytI8a9JKo=/0x542:1080x1262/750x500/data/photo/2022/03/22/6239b98488b17.jpg",
+      "recipe": "https://www.kompas.com/food/read/2022/03/22/200600775/3-cara-membuat-daging-brisket-asap-ide-bisnis-rumahan",
+      "calories": 182,
+      "proteins": 32,
+      "fat": 6,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Sapi paru dendeng mentah",
+      "image": "https://img-global.cpcdn.com/recipes/e709be83be77515c/680x482cq70/dendeng-paru-kering-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/6207770-dendeng-paru-kering",
+      "calories": 360,
+      "proteins": 57.3,
+      "fat": 6,
+      "carbohydrate": 19.2
+    },
+    {
+      "name": "Sapi paru goreng",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/07/14/resep-paru-goreng-ketumbar_43.jpeg?w=1200",
+      "recipe": "https://food.detik.com/daging/d-6178353/resep-paru-goreng-ketumbar-yang-renyah-gurih-bikin-nagih",
+      "calories": 268,
+      "proteins": 23.9,
+      "fat": 12.7,
+      "carbohydrate": 14.5
+    },
+    {
+      "name": "Sarimuka",
+      "image": "https://cdn.yummy.co.id/content-images/images/20200413/KrnfHZ9pmu6mOFKig8QN5LoC7ev3vhPG-31353836373531353434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/format,webp",
+      "recipe": "https://www.yummy.co.id/resep/sarimuka-pandan",
+      "calories": 166,
+      "proteins": 2.3,
+      "fat": 2.8,
+      "carbohydrate": 32.9
+    },
+    {
+      "name": "Sate Bandeng",
+      "image": "https://asset.kompas.com/crops/4UfXhXtR7hK2atnUpqKRHGbhFuk=/3x0:700x465/750x500/data/photo/2021/02/16/602b2a91ca7f1.jpg",
+      "recipe": "https://www.kompas.com/food/read/2021/02/16/100800675/resep-sate-bandeng-khas-banten-kreasi-bandeng-tanpa-tulang",
+      "calories": 283,
+      "proteins": 12.1,
+      "fat": 16.8,
+      "carbohydrate": 20.9
+    },
+    {
+      "name": "Sate Kulit ",
+      "image": "https://img.qraved.co/v2/image/data/over-1530587392136-x.png",
+      "recipe": "https://cookpad.com/id/resep/16774428-sate-kulit-ayam",
+      "calories": 110,
+      "proteins": 15.5,
+      "fat": 0.5,
+      "carbohydrate": 11.5
+    },
+    {
+      "name": "Sate pusut masakan",
+      "image": "https://cdn0-production-images-kly.akamaized.net/-ZH0E7VH_7Y_VdtKDmgokQ4DAAs=/0x0:5184x2922/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3652549/original/060993000_1638588819-shutterstock_1729690198.jpg",
+      "recipe": "https://www.fimela.com/food/read/4728057/resep-sate-pusut-khas-lombok",
+      "calories": 274,
+      "proteins": 12.9,
+      "fat": 18.6,
+      "carbohydrate": 13.6
+    },
+    {
+      "name": "Sate Usus ",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/17/92418359.jpeg",
+      "recipe": "https://herstory.co.id/read80908/resep-sate-usus-ayam-enggak-amis-enak-dicocol-dengan-sambal-kecap",
+      "calories": 126.7,
+      "proteins": 14,
+      "fat": 7.3,
+      "carbohydrate": 1.3
+    },
+    {
+      "name": "Sayur asem",
+      "image": "https://kbu-cdn.com/dk/wp-content/uploads/sayur-asem-betawi.jpg",
+      "recipe": "https://cookpad.com/id/cari/sayur%20asem",
+      "calories": 29,
+      "proteins": 0.7,
+      "fat": 0.6,
+      "carbohydrate": 5
+    },
+    {
+      "name": "Sayur bunga pepaya",
+      "image": "https://img.okezone.com/content/2016/08/11/298/1461224/resep-tumis-bunga-pepaya-anti-pahit-FVC55ioetB.jpg",
+      "recipe": "https://www.fimela.com/lifestyle/read/3763129/resep-praktis-tumis-bunga-pepaya-enaknya-keterlaluan",
+      "calories": 49,
+      "proteins": 1.7,
+      "fat": 0.3,
+      "carbohydrate": 9.8
+    },
+    {
+      "name": "Sayur garu",
+      "image": "https://image.akurat.co/images/uploads/images/akurat_20181220020604_MYQ3rr.jpg",
+      "recipe": "https://cookpad.com/id/resep/906244-sayur-garo-khas-maluku-utara",
+      "calories": 178,
+      "proteins": 2.6,
+      "fat": 13.9,
+      "carbohydrate": 10.6
+    },
+    {
+      "name": "Sayur kohu-kohu",
+      "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Kohu-Kohu-1.jpg",
+      "recipe": "https://cookpad.com/id/resep/14624190-kohu-kohu-khas-maluku",
+      "calories": 133,
+      "proteins": 7.3,
+      "fat": 6.6,
+      "carbohydrate": 11.2
+    },
+    {
+      "name": "Sayur lebui",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/02/25/sayur-lebuijpg-20210225095814.jpg",
+      "recipe": "https://sajiansedap.grid.id/read/102574266/spesial-saji-sedap-mengenal-lebui-lebih-dekat-si-kacang-hitam-yang-khas-dari-lombok?page=all",
+      "calories": 64,
+      "proteins": 2.1,
+      "fat": 0.6,
+      "carbohydrate": 12.5
+    },
+    {
+      "name": "Sayur lilin-terubuk",
+      "image": "https://img-global.cpcdn.com/recipes/a038616fb592cfd1/680x482cq70/sayur-lilinterubuk-santan-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/cari/sayur%20lilin",
+      "calories": 36,
+      "proteins": 2.7,
+      "fat": 0.7,
+      "carbohydrate": 4.8
+    },
+    {
+      "name": "Sayur sop",
+      "image": "https://www.astronauts.id/blog/wp-content/uploads/2022/07/Resep-Sayur-Sop-Bening-Enak-dan-Gurih-Cocok-Saat-Tubuh-Kurang-Fit-1024x683.jpg",
+      "recipe": "https://www.halodoc.com/artikel/ini-resep-sayur-sop-penuh-nutrisi-yang-jadi-favorit-keluarga",
+      "calories": 27,
+      "proteins": 1.3,
+      "fat": 2,
+      "carbohydrate": 1
+    },
+    {
+      "name": "Sayur umbut kelapa",
+      "image": "https://cdn0-production-images-kly.akamaized.net/H6v-Vuj_s2NuBQ1JVdAtUOraaOI=/0x0:998x562/469x260/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3603077/original/021559400_1634270571-shutterstock_2045298773.jpg",
+      "recipe": "https://www.fimela.com/tag/resep-gulai-rebung",
+      "calories": 67,
+      "proteins": 5.2,
+      "fat": 2.9,
+      "carbohydrate": 5.1
+    },
+    {
+      "name": "Sayur umbut rotan",
+      "image": "https://img-global.cpcdn.com/recipes/02702f896cf4ff96/680x482cq70/umbut-rotan-foto-resep-utama.jpg",
+      "recipe": "https://cookpad.com/id/resep/10727610-umbut-rotan",
+      "calories": 57,
+      "proteins": 5.4,
+      "fat": 2.6,
+      "carbohydrate": 3.1
+    },
+    {
+      "name": "Semur Jengkol ",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x135:1080x1215/x/photo/2020/11/25/1187166638.jpg",
+      "recipe": "https://herstory.co.id/read56590/resep-semur-jengkol-pedas-dijamin-bikin-nagih",
+      "calories": 192.5,
+      "proteins": 4.5,
+      "fat": 6,
+      "carbohydrate": 30.3
+    },
+    {
+      "name": "Sepi masakan",
+      "image": "https://img-global.cpcdn.com/recipes/5816c55413474302/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/14581432-sepi-tumis-kecap",
+      "calories": 88,
+      "proteins": 7.9,
+      "fat": 1.6,
+      "carbohydrate": 10.6
+    },
+    {
+      "name": "Setrup sirup",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/05/10/resep-sirup-cocopandan-1.jpeg?w=720",
+      "recipe": "https://food.detik.com/minuman/d-5565444/resep-sirup-cocopandan-alami-sederhana-buatan-rumahan",
+      "calories": 213,
+      "proteins": 0,
+      "fat": 0,
+      "carbohydrate": 55
+    },
+    {
+      "name": "Sie reuboh masakan",
+      "image": "https://cdn0-production-images-kly.akamaized.net/9A6K5z9xgb8RkvkFIp5RFFE5b_o=/0x185:4800x2890/469x260/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3911399/original/008984200_1642826892-shutterstock_2081704363.jpg",
+      "recipe": "https://www.fimela.com/food/read/4866621/resep-sie-reuboh-daging-cuka-khas-aceh",
+      "calories": 474,
+      "proteins": 11.2,
+      "fat": 42.5,
+      "carbohydrate": 11.7
+    },
+    {
+      "name": "Singkong Goreng ",
+      "image": "https://sweetrip.id/wp-content/uploads/2022/04/singkong.jpeg",
+      "recipe": "https://sweetrip.id/kuliner/resep-singkong-goreng-merekah-yang-praktis/",
+      "calories": 285,
+      "proteins": 1,
+      "fat": 18,
+      "carbohydrate": 28
+    },
+    {
+      "name": "Singkong kukus",
+      "image": "https://asset.kompas.com/crops/5kSIoZRz5urTHMM1PdoIQ64E0zU=/0x0:996x664/750x500/data/photo/2021/08/21/61208628cd52c.jpg",
+      "recipe": "https://sajiansedap.grid.id/read/103750301/cara-mengukus-singkong-agar-hasilnya-empuk-pulen-dan-merekah-ala-pedagang-gorengan-bikinan-sendiri-dijamin-berhasil?page=all",
+      "calories": 146,
+      "proteins": 1.2,
+      "fat": 0.3,
+      "carbohydrate": 34.7
+    },
+    {
+      "name": "Singkong tape",
+      "image": "https://image-cdn.medkomtek.com/KWOw6uO2QBAVuCumxbrxIkbIIek=/1200x675/smart/klikdokter-media-buckets/medias/2321509/original/051458700_1606124573-Awas-Kebanyakan-Makan-Tape-Singkong-Bikin-Keputihan-shutterstock_1790685980.jpg",
+      "recipe": "https://radarmukomuko.bacakoran.co/read/2919/cara-murah-membuat-tapai-singkong-manis",
+      "calories": 173,
+      "proteins": 0.5,
+      "fat": 0.1,
+      "carbohydrate": 42.5
+    },
+    {
+      "name": "Siomay ",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/11/17/resep-siomay-ayan-jamur_43.jpeg?w=1200",
+      "recipe": "https://food.detik.com/kue/d-6718258/3-resep-siomay-gurih-empuk-untuk-camilan-sore-atau-bekal",
+      "calories": 95.3,
+      "proteins": 4.4,
+      "fat": 2.2,
+      "carbohydrate": 14.4
+    },
+    {
+      "name": "Sop buntut masakan",
+      "image": "https://img-global.cpcdn.com/recipes/91727f982ad54daa/1200x630cq70/photo.jpg",
+      "recipe": "https://cookpad.com/id/resep/6024741-sop-buntut-spesial",
+      "calories": 71,
+      "proteins": 7.5,
+      "fat": 3.6,
+      "carbohydrate": 2.2
+    },
+    {
+      "name": "Sop daging sapi masakan",
+      "image": "https://img.okezone.com/content/2020/02/27/298/2175054/resep-sayur-sop-daging-masakan-rumahan-paling-populer-24WHr0ACJo.jpg",
+      "recipe": "https://lifestyle.okezone.com/read/2020/02/27/298/2175054/resep-sayur-sop-daging-masakan-rumahan-paling-populer",
+      "calories": 49,
+      "proteins": 5.8,
+      "fat": 0.5,
+      "carbohydrate": 5.3
+    },
+    {
+      "name": "Sop kaki sapi masakan",
+      "image": "https://www.ruparupa.com/blog/wp-content/uploads/2021/06/Screen-Shot-2021-06-21-at-14.11.27.png",
+      "recipe": "https://www.ruparupa.com/blog/bumbu-sop-kaki-sapi/",
+      "calories": 68,
+      "proteins": 9,
+      "fat": 1.9,
+      "carbohydrate": 3.7
+    },
+    {
+      "name": "Sop kambing masakan",
+      "image": "https://asset.kompas.com/crops/4BopB2so0iCh5Dj_6QkB41md3B0=/3x0:700x465/750x500/data/photo/2021/01/15/6000de7b45e69.jpg",
+      "recipe": "https://www.kompas.com/food/read/2021/01/15/110300475/resep-sop-kambing-bening-hidangan-berkuah-untuk-musim-hujan",
+      "calories": 34,
+      "proteins": 5.5,
+      "fat": 0.8,
+      "carbohydrate": 1.1
+    },
+    {
+      "name": "Sop konro masakan",
+      "image": "https://asset.kompas.com/crops/t9vL2Z6ZAjt7cnpl05cuYOfd2k4=/129x72:651x420/750x500/data/photo/2020/07/30/5f22636a0e7e0.jpg",
+      "recipe": "https://www.kompas.com/food/read/2020/07/30/150500275/resep-sop-konro-khas-makassar-cocok-untuk-santapan-idul-adha",
+      "calories": 71,
+      "proteins": 7.4,
+      "fat": 2.6,
+      "carbohydrate": 4.5
+    },
+    {
+      "name": "Sop Kool",
+      "image": "https://gallery-jateng.poskota.co.id/storage/Foto/2020/1608103380_1-org.png",
+      "recipe": "https://cookpad.com/id/cari/sup%20kol%20bumbu%20kunci",
+      "calories": 12,
+      "proteins": 0.5,
+      "fat": 0.1,
+      "carbohydrate": 2
+    },
+    {
+      "name": "Sop Kool dan Wortel",
+      "image": "https://img-global.cpcdn.com/recipes/8adcb73d8f012620/680x482cq70/sop-kol-simple-foto-resep-utama.jpg",
+      "recipe": "https://www.yummy.co.id/resep/sop-wortel-dan-kembang-kol",
+      "calories": 15,
+      "proteins": 0.6,
+      "fat": 0.1,
+      "carbohydrate": 3.1
+    },
+    {
+      "name": "Sop saudara masakan",
+      "image": "https://resepkoki.id/wp-content/uploads/2018/03/Resep-Sop-Sodara.jpg",
+      "recipe": "https://www.idntimes.com/food/recipe/dimas-hutama/resep-sop-saudara-khas-makassar-c1c2",
+      "calories": 89,
+      "proteins": 7.2,
+      "fat": 5,
+      "carbohydrate": 3.9
+    },
+    {
+      "name": "Soto bandung masakan",
+      "image": "https://asset.kompas.com/crops/aq7SWhGNCO6UTombdviZuAchnCM=/3x0:700x465/750x500/data/photo/2021/04/21/607ff824cb839.jpg",
+      "recipe": "https://www.kompas.com/food/read/2021/04/21/193700875/resep-soto-bandung-soto-sapi-kuah-bening-cocok-untuk-makanan-sahur-",
+      "calories": 42,
+      "proteins": 3.9,
+      "fat": 1.7,
+      "carbohydrate": 2.8
+    },
+    {
+      "name": "Soto banjar masakan",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2019/06/5.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-soto-banjar/",
+      "calories": 110,
+      "proteins": 2.9,
+      "fat": 9.5,
+      "carbohydrate": 3.2
+    },
+    {
+      "name": "Soto betawi masakan",
+      "image": "https://www.unileverfoodsolutions.co.id/dam/global-ufs/mcos/SEA/calcmenu/recipes/ID-recipes/soups/soto-betawi/main-header.jpg",
+      "recipe": "https://www.unileverfoodsolutions.co.id/id/recipe/soto-betawi-R0032465.html",
+      "calories": 135,
+      "proteins": 2.5,
+      "fat": 8.8,
+      "carbohydrate": 11.5
+    },
+    {
+      "name": "Soto dengan Daging",
+      "image": "https://img.kurio.network/mjtADdO0Q-nnAohGaTqVBvp8rMc=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/03/01/0bfa7a3d-28f6-440f-907b-def23ccb96d9.jpe",
+      "recipe": "https://endeus.tv/resep/soto-daging",
+      "calories": 127.5,
+      "proteins": 2.6,
+      "fat": 9.4,
+      "carbohydrate": 8.3
+    },
+    {
+      "name": "Soto jeroan masakan",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/03/15/resep-soto-jeroan-sapi_43.jpeg?w=1200",
+      "recipe": "https://food.detik.com/daging/d-6951353/3-resep-jeroan-sapi-berbumbu-pedas-gurih-cocok-buat-lauk-bekal",
+      "calories": 92,
+      "proteins": 11.8,
+      "fat": 4.3,
+      "carbohydrate": 1.4
+    },
+    {
+      "name": "Soto kudus masakan",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2020/02/soto-kudus-7.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-soto-kudus/",
+      "calories": 38,
+      "proteins": 2.6,
+      "fat": 2.3,
+      "carbohydrate": 1.8
+    },
+    {
+      "name": "Soto madura masakan",
+      "image": "https://cdn.yummy.co.id/content-images/images/20210311/FyZCyT9dfZQGp9zNZhL2iuoQn9pA7hpK-31363135343538363836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/format,webp",
+      "recipe": "https://www.yummy.co.id/resep/soto-daging-khas-madura",
+      "calories": 60,
+      "proteins": 3.5,
+      "fat": 4.5,
+      "carbohydrate": 1.3
+    },
+    {
+      "name": "Soto padang masakan",
+      "image": "https://topwisata.info/wp-content/uploads/2020/11/resep2Bsoto2Bpadang2B252812529.jpg",
+      "recipe": "https://bangka.sonora.id/read/502385858/dilengkapi-dengan-kerupuk-merah-berikut-ini-cara-membuat-soto-padang",
+      "calories": 127,
+      "proteins": 5.9,
+      "fat": 6.6,
+      "carbohydrate": 11
+    },
+    {
+      "name": "Soto pekalongan masakan",
+      "image": "https://www.topwisata.info/wp-content/uploads/2021/12/Soto-Tauto-Pekalongan-1.jpg",
+      "recipe": "https://www.detik.com/jateng/kuliner/d-6722930/resep-tauto-soto-khas-pekalongan-pakai-tauco-kuahnya-gurih",
+      "calories": 94,
+      "proteins": 3,
+      "fat": 6.8,
+      "carbohydrate": 5.1
+    },
+    {
+      "name": "Soto pemalang masakan",
+      "image": "https://i0.wp.com/bogor-today.com/wp-content/uploads/2022/09/87456.jpg",
+      "recipe": "https://cookpad.com/id/cari/soto%20pemalang",
+      "calories": 75,
+      "proteins": 3.6,
+      "fat": 5.2,
+      "carbohydrate": 3.5
+    },
+    {
+      "name": "Soto sukaraja masakan",
+      "image": "https://www.piknikdong.com/wp-content/uploads/2021/04/Resep-Soto-Sokaraja.jpg",
+      "recipe": "https://cookpad.com/id/resep/242374-soto-sokaraja-asli-banyumas",
+      "calories": 80,
+      "proteins": 3.2,
+      "fat": 3.5,
+      "carbohydrate": 9
+    },
+    {
+      "name": "Soto sulung masakan",
+      "image": "https://www.primarasa.co.id/images/images/Soto%20sulung%20artikel%281%29.jpg",
+      "recipe": "https://www.idntimes.com/food/recipe/wisnu-ariansyah/resep-soto-sulung-khas-surabaya-cita-rasa-kuahnya-mantap-dan-nikmat-c1c2",
+      "calories": 86,
+      "proteins": 2.3,
+      "fat": 8.5,
+      "carbohydrate": 0
+    },
+    {
+      "name": "Soto tanpa Daging ",
+      "image": "https://resepkoki.id/wp-content/uploads/2019/11/Soto-Ayam-Bening.jpg",
+      "recipe": "https://resepkoki.id/resep/resep-soto-ayam-bening/",
+      "calories": 117.1,
+      "proteins": 0.4,
+      "fat": 8.6,
+      "carbohydrate": 9.6
+    },
+    {
+      "name": "Spaghetti",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/09/Spicy-tomato-spaghetti-caf3053.jpg",
+      "recipe": "https://cookpad.com/id/cari/spaghetti",
+      "calories": 139,
+      "proteins": 7.4,
+      "fat": 2.1,
+      "carbohydrate": 22.6
+    },
+    {
+      "name": "Sukiyaki masakan",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2022/05/sukiyaki-praktis.jpg",
+      "recipe": "https://www.masakapahariini.com/resep/resep-sukiyaki-praktis/",
+      "calories": 75,
+      "proteins": 5.6,
+      "fat": 0.4,
+      "carbohydrate": 12.2
+    }
+  ]
