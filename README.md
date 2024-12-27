@@ -14,7 +14,7 @@ NutriTrack introduces features such as BMI-based food recommendations and daily 
 | Bangkit ID       |           Name            |   Learning Path    | LinkedIn Profile |
 |:----------------:|---------------------------|:------------------:|:-----------------------------------------:|
 | M004D4KY1865      | Irvan Raditya Ardiansyah  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/irvanradityaardiansyah) |
-| M200D4KX2593      | Siti Isyaroh              | Machine Learning   | - |
+| M200D4KX2593      | Siti Isyaroh              | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/siti-isyaroh17/) |
 | M279D4KX2793      | Maya Myerella             | Machine Learning   | - |
 | C012D4KY0173      | M Azhar Ditia Sinuhaji    | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/mazharditiasinuhaji) |
 | C012D4KX0653      | Amaliah Rezky Alfri Jamil | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/amaliah-rezky-alfri-jamil) |
